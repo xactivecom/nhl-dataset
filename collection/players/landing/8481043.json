@@ -1,0 +1,878 @@
+{
+    "playerId": 8481043,
+    "isActive": true,
+    "currentTeamId": 6,
+    "currentTeamAbbrev": "BOS",
+    "fullTeamName": {
+        "default": "Boston Bruins",
+        "fr": "Bruins de Boston"
+    },
+    "teamCommonName": {
+        "default": "Bruins"
+    },
+    "teamPlaceNameWithPreposition": {
+        "default": "Boston",
+        "fr": "de Boston"
+    },
+    "firstName": {
+        "default": "Cole"
+    },
+    "lastName": {
+        "default": "Koepke"
+    },
+    "badges": [],
+    "teamLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+    "sweaterNumber": 45,
+    "position": "L",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BOS/8481043.png",
+    "heroImage": "https://assets.nhle.com/mugs/actionshots/1296x729/8481043.jpg",
+    "heightInInches": 73,
+    "heightInCentimeters": 185,
+    "weightInPounds": 207,
+    "weightInKilograms": 94,
+    "birthDate": "1998-05-17",
+    "birthCity": {
+        "default": "Two Harbors"
+    },
+    "birthStateProvince": {
+        "default": "Minnesota"
+    },
+    "birthCountry": "USA",
+    "shootsCatches": "L",
+    "draftDetails": {
+        "year": 2018,
+        "teamAbbrev": "TBL",
+        "round": 6,
+        "pickInRound": 28,
+        "overallPick": 183
+    },
+    "playerSlug": "cole-koepke-8481043",
+    "inTop100AllTime": 0,
+    "inHHOF": 0,
+    "featuredStats": {
+        "season": 20242025,
+        "regularSeason": {
+            "subSeason": {
+                "assists": 7,
+                "gameWinningGoals": 2,
+                "gamesPlayed": 73,
+                "goals": 10,
+                "otGoals": 0,
+                "pim": 17,
+                "plusMinus": 1,
+                "points": 17,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.117647,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 85
+            },
+            "career": {
+                "assists": 9,
+                "gameWinningGoals": 2,
+                "gamesPlayed": 99,
+                "goals": 11,
+                "otGoals": 0,
+                "pim": 19,
+                "plusMinus": -4,
+                "points": 20,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.10369999999999999,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 106
+            }
+        }
+    },
+    "careerTotals": {
+        "regularSeason": {
+            "assists": 9,
+            "avgToi": "10:28",
+            "faceoffWinningPctg": 0.0,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 99,
+            "goals": 11,
+            "otGoals": 0,
+            "pim": 19,
+            "plusMinus": -4,
+            "points": 20,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "shootingPctg": 0.10369999999999999,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 106
+        }
+    },
+    "shopLink": "#TODO",
+    "twitterLink": "#TODO",
+    "watchLink": "#TODO",
+    "last5Games": [
+        {
+            "assists": 0,
+            "gameDate": "2025-04-15",
+            "gameId": 2024021291,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "NJD",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 18,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "BOS",
+            "toi": "11:27"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-13",
+            "gameId": 2024021278,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "PIT",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 16,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "BOS",
+            "toi": "12:32"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-10",
+            "gameId": 2024021250,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "CHI",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 16,
+            "shorthandedGoals": 0,
+            "shots": 1,
+            "teamAbbrev": "BOS",
+            "toi": "12:02"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-08",
+            "gameId": 2024021238,
+            "gameTypeId": 2,
+            "goals": 1,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "NJD",
+            "pim": 0,
+            "plusMinus": 1,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "shifts": 16,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "BOS",
+            "toi": "13:26"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-06",
+            "gameId": 2024021226,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "BUF",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 16,
+            "shorthandedGoals": 0,
+            "shots": 0,
+            "teamAbbrev": "BOS",
+            "toi": "11:44"
+        }
+    ],
+    "seasonTotals": [
+        {
+            "assists": 11,
+            "gameTypeId": 2,
+            "gamesPlayed": 25,
+            "goals": 17,
+            "leagueAbbrev": "USHS-MN",
+            "pim": 12,
+            "points": 28,
+            "season": 20132014,
+            "sequence": 70932,
+            "teamName": {
+                "default": "Hermantown High"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 3,
+            "gamesPlayed": 3,
+            "goals": 0,
+            "leagueAbbrev": "USHS-MN",
+            "pim": 0,
+            "points": 2,
+            "season": 20132014,
+            "sequence": 70932,
+            "teamName": {
+                "default": "Hermantown High"
+            }
+        },
+        {
+            "assists": 19,
+            "gameTypeId": 2,
+            "gamesPlayed": 25,
+            "goals": 17,
+            "leagueAbbrev": "USHS-MN",
+            "pim": 12,
+            "points": 36,
+            "season": 20142015,
+            "sequence": 70932,
+            "teamName": {
+                "default": "Hermantown High"
+            }
+        },
+        {
+            "assists": 4,
+            "gameTypeId": 2,
+            "gamesPlayed": 19,
+            "goals": 4,
+            "leagueAbbrev": "UMHSEHL",
+            "pim": 8,
+            "points": 8,
+            "season": 20142015,
+            "sequence": 97778,
+            "teamName": {
+                "default": "Team North"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 3,
+            "gamesPlayed": 3,
+            "goals": 3,
+            "leagueAbbrev": "USHS-MN",
+            "pim": 0,
+            "points": 6,
+            "season": 20142015,
+            "sequence": 70932,
+            "teamName": {
+                "default": "Hermantown High"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 3,
+            "goals": 0,
+            "leagueAbbrev": "UMHSEHL",
+            "pim": 0,
+            "points": 1,
+            "season": 20142015,
+            "sequence": 97778,
+            "teamName": {
+                "default": "Team North"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 3,
+            "leagueAbbrev": "USA-S16",
+            "points": 4,
+            "season": 20142015,
+            "sequence": 10192984,
+            "teamName": {
+                "default": "Team Forest"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 3,
+            "gamesPlayed": 3,
+            "goals": 3,
+            "leagueAbbrev": "MNHP-16",
+            "points": 5,
+            "season": 20142015,
+            "sequence": 10367878,
+            "teamName": {
+                "default": "B16 - Blue (Final 54)"
+            }
+        },
+        {
+            "assists": 22,
+            "gameTypeId": 2,
+            "gamesPlayed": 24,
+            "goals": 31,
+            "leagueAbbrev": "USHS-MN",
+            "pim": 23,
+            "points": 53,
+            "season": 20152016,
+            "sequence": 70948,
+            "teamName": {
+                "default": "Hermantown High"
+            }
+        },
+        {
+            "assists": 7,
+            "gameTypeId": 2,
+            "gamesPlayed": 20,
+            "goals": 7,
+            "leagueAbbrev": "UMHSEHL",
+            "pim": 4,
+            "points": 14,
+            "season": 20152016,
+            "sequence": 97808,
+            "teamName": {
+                "default": "Team The Base"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 9,
+            "goals": 2,
+            "leagueAbbrev": "NAHL",
+            "pim": 4,
+            "plusMinus": -8,
+            "points": 3,
+            "season": 20152016,
+            "sequence": 138174,
+            "teamName": {
+                "default": "Minnesota Wilderness"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 3,
+            "goals": 4,
+            "leagueAbbrev": "USHS-MN",
+            "pim": 0,
+            "points": 4,
+            "season": 20152016,
+            "sequence": 70948,
+            "teamName": {
+                "default": "Hermantown High"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 3,
+            "goals": 3,
+            "leagueAbbrev": "UMHSEHL",
+            "pim": 2,
+            "points": 4,
+            "season": 20152016,
+            "sequence": 97808,
+            "teamName": {
+                "default": "Team The Base"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 8,
+            "goals": 0,
+            "leagueAbbrev": "NAHL",
+            "pim": 4,
+            "plusMinus": -6,
+            "points": 0,
+            "season": 20152016,
+            "sequence": 138174,
+            "teamName": {
+                "default": "Minnesota Wilderness"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 22,
+            "goals": 3,
+            "leagueAbbrev": "USHL",
+            "pim": 19,
+            "plusMinus": 2,
+            "points": 5,
+            "season": 20162017,
+            "sequence": 9956,
+            "teamName": {
+                "default": "Sioux City Musketeers"
+            }
+        },
+        {
+            "assists": 11,
+            "gameTypeId": 2,
+            "gamesPlayed": 60,
+            "goals": 28,
+            "leagueAbbrev": "USHL",
+            "pim": 34,
+            "plusMinus": -13,
+            "points": 39,
+            "season": 20172018,
+            "sequence": 9956,
+            "teamName": {
+                "default": "Sioux City Musketeers"
+            }
+        },
+        {
+            "assists": 12,
+            "gameTypeId": 2,
+            "gamesPlayed": 42,
+            "goals": 7,
+            "leagueAbbrev": "NCAA",
+            "pim": 14,
+            "plusMinus": 14,
+            "points": 19,
+            "season": 20182019,
+            "sequence": 18500,
+            "teamName": {
+                "default": "Univ. of Minnesota-Duluth"
+            }
+        },
+        {
+            "assists": 17,
+            "gameTypeId": 2,
+            "gamesPlayed": 34,
+            "goals": 16,
+            "leagueAbbrev": "NCAA",
+            "pim": 16,
+            "plusMinus": 14,
+            "points": 33,
+            "season": 20192020,
+            "sequence": 18500,
+            "teamName": {
+                "default": "Univ. of Minnesota-Duluth"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 9,
+            "goals": 2,
+            "leagueAbbrev": "AHL",
+            "pim": 2,
+            "plusMinus": 5,
+            "points": 3,
+            "season": 20202021,
+            "sequence": 1057,
+            "teamName": {
+                "default": "Syracuse Crunch"
+            }
+        },
+        {
+            "assists": 8,
+            "gameTypeId": 2,
+            "gamesPlayed": 28,
+            "goals": 15,
+            "leagueAbbrev": "NCAA",
+            "pim": 22,
+            "plusMinus": 3,
+            "points": 23,
+            "season": 20202021,
+            "sequence": 18500,
+            "teamName": {
+                "default": "Univ. of Minnesota-Duluth"
+            }
+        },
+        {
+            "assists": 19,
+            "gameTypeId": 2,
+            "gamesPlayed": 69,
+            "goals": 20,
+            "leagueAbbrev": "AHL",
+            "pim": 55,
+            "plusMinus": 7,
+            "points": 39,
+            "season": 20212022,
+            "sequence": 1057,
+            "teamName": {
+                "default": "Syracuse Crunch"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 5,
+            "goals": 2,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": 4,
+            "points": 3,
+            "season": 20212022,
+            "sequence": 1057,
+            "teamName": {
+                "default": "Syracuse Crunch"
+            }
+        },
+        {
+            "assists": 0,
+            "avgToi": "9:06",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 17,
+            "goals": 1,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": -5,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20222023,
+            "sequence": 1,
+            "shootingPctg": 0.083333,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 12,
+            "teamCommonName": {
+                "default": "Lightning"
+            },
+            "teamName": {
+                "default": "Tampa Bay Lightning",
+                "fr": "Lightning de Tampa Bay"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Tampa Bay",
+                "fr": "de Tampa Bay"
+            }
+        },
+        {
+            "assists": 12,
+            "gameTypeId": 2,
+            "gamesPlayed": 52,
+            "goals": 7,
+            "leagueAbbrev": "AHL",
+            "pim": 23,
+            "plusMinus": -4,
+            "points": 19,
+            "season": 20222023,
+            "sequence": 1057,
+            "teamName": {
+                "default": "Syracuse Crunch"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 3,
+            "gamesPlayed": 5,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 2,
+            "plusMinus": -5,
+            "points": 3,
+            "season": 20222023,
+            "sequence": 1057,
+            "teamName": {
+                "default": "Syracuse Crunch"
+            }
+        },
+        {
+            "assists": 2,
+            "avgToi": "6:42",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 9,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 2,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20232024,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 9,
+            "teamCommonName": {
+                "default": "Lightning"
+            },
+            "teamName": {
+                "default": "Tampa Bay Lightning",
+                "fr": "Lightning de Tampa Bay"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Tampa Bay",
+                "fr": "de Tampa Bay"
+            }
+        },
+        {
+            "assists": 19,
+            "gameTypeId": 2,
+            "gamesPlayed": 53,
+            "goals": 20,
+            "leagueAbbrev": "AHL",
+            "pim": 14,
+            "plusMinus": 8,
+            "points": 39,
+            "season": 20232024,
+            "sequence": 1057,
+            "teamName": {
+                "default": "Syracuse Crunch"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 8,
+            "goals": 4,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 4,
+            "season": 20232024,
+            "sequence": 1057,
+            "teamName": {
+                "default": "Syracuse Crunch"
+            }
+        },
+        {
+            "assists": 7,
+            "avgToi": "11:15",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 73,
+            "goals": 10,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 17,
+            "plusMinus": 1,
+            "points": 17,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.117647,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 85,
+            "teamCommonName": {
+                "default": "Bruins"
+            },
+            "teamName": {
+                "default": "Boston Bruins",
+                "fr": "Bruins de Boston"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Boston",
+                "fr": "de Boston"
+            }
+        }
+    ],
+    "currentTeamRoster": [
+        {
+            "playerId": 8481556,
+            "lastName": {
+                "default": "Beecher"
+            },
+            "firstName": {
+                "default": "John"
+            },
+            "playerSlug": "john-beecher-8481556"
+        },
+        {
+            "playerId": 8479987,
+            "lastName": {
+                "default": "Geekie"
+            },
+            "firstName": {
+                "default": "Morgan"
+            },
+            "playerSlug": "morgan-geekie-8479987"
+        },
+        {
+            "playerId": 8480035,
+            "lastName": {
+                "default": "Jokiharju"
+            },
+            "firstName": {
+                "default": "Henri"
+            },
+            "playerSlug": "henri-jokiharju-8480035"
+        },
+        {
+            "playerId": 8480355,
+            "lastName": {
+                "default": "Kastelic"
+            },
+            "firstName": {
+                "default": "Mark"
+            },
+            "playerSlug": "mark-kastelic-8480355"
+        },
+        {
+            "playerId": 8482177,
+            "lastName": {
+                "default": "Khusnutdinov",
+                "cs": "Chusnutdinov",
+                "fi": "Husnutdinov",
+                "sk": "Chusnutdinov"
+            },
+            "firstName": {
+                "default": "Marat"
+            },
+            "playerSlug": "marat-khusnutdinov-8482177"
+        },
+        {
+            "playerId": 8481043,
+            "lastName": {
+                "default": "Koepke"
+            },
+            "firstName": {
+                "default": "Cole"
+            },
+            "playerSlug": "cole-koepke-8481043"
+        },
+        {
+            "playerId": 8476914,
+            "lastName": {
+                "default": "Korpisalo"
+            },
+            "firstName": {
+                "default": "Joonas"
+            },
+            "playerSlug": "joonas-korpisalo-8476914"
+        },
+        {
+            "playerId": 8480880,
+            "lastName": {
+                "default": "Lauko"
+            },
+            "firstName": {
+                "default": "Jakub"
+            },
+            "playerSlug": "jakub-lauko-8480880"
+        },
+        {
+            "playerId": 8477496,
+            "lastName": {
+                "default": "Lindholm"
+            },
+            "firstName": {
+                "default": "Elias"
+            },
+            "playerSlug": "elias-lindholm-8477496"
+        },
+        {
+            "playerId": 8476854,
+            "lastName": {
+                "default": "Lindholm"
+            },
+            "firstName": {
+                "default": "Hampus"
+            },
+            "playerSlug": "hampus-lindholm-8476854"
+        },
+        {
+            "playerId": 8482511,
+            "lastName": {
+                "default": "Lohrei"
+            },
+            "firstName": {
+                "default": "Mason"
+            },
+            "playerSlug": "mason-lohrei-8482511"
+        },
+        {
+            "playerId": 8479325,
+            "lastName": {
+                "default": "McAvoy"
+            },
+            "firstName": {
+                "default": "Charlie"
+            },
+            "playerSlug": "charlie-mcavoy-8479325"
+        },
+        {
+            "playerId": 8479999,
+            "lastName": {
+                "default": "Mittelstadt"
+            },
+            "firstName": {
+                "default": "Casey"
+            },
+            "playerSlug": "casey-mittelstadt-8479999"
+        },
+        {
+            "playerId": 8477956,
+            "lastName": {
+                "default": "Pastrnak",
+                "cs": "Pastrňák",
+                "sk": "Pastrňák"
+            },
+            "firstName": {
+                "default": "David"
+            },
+            "playerSlug": "david-pastrnak-8477956"
+        },
+        {
+            "playerId": 8479369,
+            "lastName": {
+                "default": "Peeke"
+            },
+            "firstName": {
+                "default": "Andrew"
+            },
+            "playerSlug": "andrew-peeke-8479369"
+        },
+        {
+            "playerId": 8480280,
+            "lastName": {
+                "default": "Swayman"
+            },
+            "firstName": {
+                "default": "Jeremy"
+            },
+            "playerSlug": "jeremy-swayman-8480280"
+        },
+        {
+            "playerId": 8478450,
+            "lastName": {
+                "default": "Wotherspoon"
+            },
+            "firstName": {
+                "default": "Parker"
+            },
+            "playerSlug": "parker-wotherspoon-8478450"
+        },
+        {
+            "playerId": 8478401,
+            "lastName": {
+                "default": "Zacha"
+            },
+            "firstName": {
+                "default": "Pavel"
+            },
+            "playerSlug": "pavel-zacha-8478401"
+        },
+        {
+            "playerId": 8477507,
+            "lastName": {
+                "default": "Zadorov"
+            },
+            "firstName": {
+                "default": "Nikita"
+            },
+            "playerSlug": "nikita-zadorov-8477507"
+        }
+    ]
+}

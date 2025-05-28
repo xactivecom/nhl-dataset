@@ -1,0 +1,231 @@
+{
+	"data": [
+		{
+			"id": 6,
+			"triCode": "BOS",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#010101", "#FFB81C"]
+		},
+		{
+			"id": 7,
+			"triCode": "BUF",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#003087", "#FFB81C"]
+		},
+		{
+			"id": 17,
+			"triCode": "DET",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#C8102E", "#FFFFFF"]
+		},
+		{
+			"id": 13,
+			"triCode": "FLA",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#C8102E", "#041E42"]
+		},
+		{
+			"id": 8,
+			"triCode": "MTL",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#A6192E", "#001E62"]
+		},
+		{
+			"id": 9,
+			"triCode": "OTT",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#010101", "#C8102E"]
+		},
+		{
+			"id": 14,
+			"triCode": "TBL",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#00205B", "#FFFFFF"]
+		},
+		{
+			"id": 10,
+			"triCode": "TOR",
+			"conference": "Eastern",
+			"division": "atlantic",
+			"colors": ["#00205B", "#FFFFFF"]
+		},
+
+		{ 
+			"id": 12,
+			"triCode": "CAR",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#010101", "#C8102E"]
+		},
+		{
+			"id": 29,
+			"triCode": "CBJ",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#041E42", "#C8102E"]
+		},
+		{
+			"id": 1,
+			"triCode": "NJD",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#C8102E", "#010101"]
+		},
+		{
+			"id": 2,
+			"triCode": "NYI",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#003087", "#FC4C02"]
+		},
+		{
+			"id": 3,
+			"triCode": "NYR",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#0032A0", "#C8102E"]
+		},
+		{
+			"id": 4,
+			"triCode": "PHI",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#CF4520", "#010101"]
+		},
+		{
+			"id": 5,
+			"triCode": "PIT",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#010101", "#FFB81C"]
+		},
+		{
+			"id": 15,
+			"triCode": "WSH",
+			"conference": "Eastern",
+			"division": "Metropolitan",
+			"colors": ["#C8102E", "#041E42"]
+		},
+
+		{ 
+			"id": 16,
+			"triCode": "CHI",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#C8102E", "#010101"]
+		},
+		{
+			"id": 21,
+			"triCode": "COL",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#6F263D", "#236192"]
+		},
+		{
+			"id": 25,
+			"triCode": "DAL",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#00843D", "#010101"]
+		}, 
+		{
+			"id": 30,
+			"triCode": "MIN",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#154734", "#A6192E"]
+		},
+		{
+			"id": 18,
+			"triCode": "NSH",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#FFB81C", "#041E42"]
+		},
+		{
+			"id": 19,
+			"triCode": "STL",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#003087", "#FFB81C"]
+		},
+		{
+			"id": 68,
+			"triCode": "UTA",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#010101", "#69B3E7"]
+		},
+		{
+			"id": 52,
+			"triCode": "WPG",
+			"conference": "Western",
+			"division": "Central",
+			"colors": ["#041E42", "#004C97"]
+		},
+
+		{
+			"id": 24,
+			"triCode": "ANA",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#CF4520", "#010101"]
+		},
+		{
+			"id": 20,
+			"triCode": "CGY",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#C8102E", "#F1BE48"]
+		},
+		{
+			"id": 22,
+			"triCode": "EDM",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#00205B", "#CF4520"]
+		},
+		{
+			"id": 26,
+			"triCode": "LAK",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#010101", "#A2AAAD"]
+		},
+		{
+			"id": 28,
+			"triCode": "SJS",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#006271", "#010101"]
+		},
+		{
+			"id": 55,
+			"triCode": "SEA",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#051C2C", "#9CDBD9"]
+		},
+		{
+			"id": 23,
+			"triCode": "VAN",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#00205B", "#00843D"]
+		},
+		{
+			"id": 54,
+			"triCode": "VGK",
+			"conference": "Western",
+			"division": "Pacific",
+			"colors": ["#B9975B", "#333F48"]
+		}
+	]
+}

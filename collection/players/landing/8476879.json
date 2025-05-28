@@ -1,0 +1,1533 @@
+{
+    "playerId": 8476879,
+    "isActive": true,
+    "currentTeamId": 25,
+    "currentTeamAbbrev": "DAL",
+    "fullTeamName": {
+        "default": "Dallas Stars",
+        "fr": "Stars de Dallas"
+    },
+    "teamCommonName": {
+        "default": "Stars"
+    },
+    "teamPlaceNameWithPreposition": {
+        "default": "Dallas",
+        "fr": "de Dallas"
+    },
+    "firstName": {
+        "default": "Cody"
+    },
+    "lastName": {
+        "default": "Ceci"
+    },
+    "badges": [],
+    "teamLogo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+    "sweaterNumber": 44,
+    "position": "D",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/DAL/8476879.png",
+    "heroImage": "https://assets.nhle.com/mugs/actionshots/1296x729/8476879.jpg",
+    "heightInInches": 75,
+    "heightInCentimeters": 191,
+    "weightInPounds": 210,
+    "weightInKilograms": 95,
+    "birthDate": "1993-12-21",
+    "birthCity": {
+        "default": "Ottawa"
+    },
+    "birthStateProvince": {
+        "default": "Ontario"
+    },
+    "birthCountry": "CAN",
+    "shootsCatches": "R",
+    "draftDetails": {
+        "year": 2012,
+        "teamAbbrev": "OTT",
+        "round": 1,
+        "pickInRound": 15,
+        "overallPick": 15
+    },
+    "playerSlug": "cody-ceci-8476879",
+    "inTop100AllTime": 0,
+    "inHHOF": 0,
+    "featuredStats": {
+        "season": 20242025,
+        "regularSeason": {
+            "subSeason": {
+                "assists": 20,
+                "gameWinningGoals": 2,
+                "gamesPlayed": 85,
+                "goals": 4,
+                "otGoals": 0,
+                "pim": 24,
+                "plusMinus": 6,
+                "points": 24,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.044444,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 1,
+                "shots": 90
+            },
+            "career": {
+                "assists": 183,
+                "gameWinningGoals": 11,
+                "gamesPlayed": 871,
+                "goals": 52,
+                "otGoals": 1,
+                "pim": 194,
+                "plusMinus": 2,
+                "points": 235,
+                "powerPlayGoals": 1,
+                "powerPlayPoints": 13,
+                "shootingPctg": 0.042300000000000004,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 7,
+                "shots": 1229
+            }
+        },
+        "playoffs": {
+            "subSeason": {
+                "assists": 3,
+                "gameWinningGoals": 0,
+                "gamesPlayed": 13,
+                "goals": 0,
+                "otGoals": 0,
+                "pim": 2,
+                "plusMinus": -1,
+                "points": 3,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.0,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 13
+            },
+            "career": {
+                "assists": 18,
+                "gameWinningGoals": 1,
+                "gamesPlayed": 101,
+                "goals": 4,
+                "otGoals": 0,
+                "pim": 22,
+                "plusMinus": -17,
+                "points": 22,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.0333,
+                "shorthandedGoals": 1,
+                "shorthandedPoints": 1,
+                "shots": 120
+            }
+        }
+    },
+    "careerTotals": {
+        "regularSeason": {
+            "assists": 183,
+            "avgToi": "20:42",
+            "faceoffWinningPctg": 1.0,
+            "gameWinningGoals": 11,
+            "gamesPlayed": 871,
+            "goals": 52,
+            "otGoals": 1,
+            "pim": 194,
+            "plusMinus": 2,
+            "points": 235,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 13,
+            "shootingPctg": 0.042300000000000004,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 7,
+            "shots": 1229
+        },
+        "playoffs": {
+            "assists": 18,
+            "avgToi": "20:46",
+            "gameWinningGoals": 1,
+            "gamesPlayed": 101,
+            "goals": 4,
+            "otGoals": 0,
+            "pim": 22,
+            "plusMinus": -17,
+            "points": 22,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "shootingPctg": 0.0333,
+            "shorthandedGoals": 1,
+            "shorthandedPoints": 1,
+            "shots": 120
+        }
+    },
+    "shopLink": "#TODO",
+    "twitterLink": "#TODO",
+    "watchLink": "#TODO",
+    "last5Games": [
+        {
+            "assists": 0,
+            "gameDate": "2025-05-17",
+            "gameId": 2024030236,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "WPG",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 27,
+            "shorthandedGoals": 0,
+            "shots": 0,
+            "teamAbbrev": "DAL",
+            "toi": "18:55"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-15",
+            "gameId": 2024030235,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "WPG",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 18,
+            "shorthandedGoals": 0,
+            "shots": 0,
+            "teamAbbrev": "DAL",
+            "toi": "16:40"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-13",
+            "gameId": 2024030234,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "WPG",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 23,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "DAL",
+            "toi": "20:37"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-11",
+            "gameId": 2024030233,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "WPG",
+            "pim": 0,
+            "plusMinus": 1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 27,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "DAL",
+            "toi": "21:18"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-09",
+            "gameId": 2024030232,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "WPG",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 23,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "DAL",
+            "toi": "21:27"
+        }
+    ],
+    "seasonTotals": [
+        {
+            "assists": 48,
+            "gameTypeId": 2,
+            "gamesPlayed": 57,
+            "goals": 24,
+            "leagueAbbrev": "Minor-ON",
+            "pim": 26,
+            "points": 72,
+            "season": 20082009,
+            "sequence": 1,
+            "teamName": {
+                "default": "Peterborough"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 0,
+            "leagueAbbrev": "ETAHL U16",
+            "pim": 2,
+            "points": 1,
+            "season": 20082009,
+            "sequence": 97884,
+            "teamName": {
+                "default": "Peterborough Petes U16 AAA"
+            }
+        },
+        {
+            "assists": 8,
+            "gameTypeId": 2,
+            "gamesPlayed": 64,
+            "goals": 4,
+            "leagueAbbrev": "OHL",
+            "pim": 12,
+            "plusMinus": 3,
+            "points": 12,
+            "powerPlayGoals": 1,
+            "season": 20092010,
+            "sequence": 1,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Ottawa"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 3,
+            "gamesPlayed": 12,
+            "goals": 0,
+            "leagueAbbrev": "OHL",
+            "pim": 0,
+            "plusMinus": 1,
+            "points": 3,
+            "powerPlayGoals": 0,
+            "season": 20092010,
+            "sequence": 1,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Ottawa"
+            }
+        },
+        {
+            "assists": 25,
+            "gameTypeId": 2,
+            "gamesPlayed": 68,
+            "goals": 9,
+            "leagueAbbrev": "OHL",
+            "pim": 28,
+            "plusMinus": 11,
+            "points": 34,
+            "powerPlayGoals": 3,
+            "season": 20102011,
+            "sequence": 1,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Ottawa"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 0,
+            "leagueAbbrev": "OHL",
+            "pim": 4,
+            "plusMinus": -5,
+            "points": 2,
+            "powerPlayGoals": 0,
+            "season": 20102011,
+            "sequence": 1,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Ottawa"
+            }
+        },
+        {
+            "assists": 43,
+            "gameTypeId": 2,
+            "gamesPlayed": 64,
+            "goals": 17,
+            "leagueAbbrev": "OHL",
+            "pim": 14,
+            "plusMinus": 21,
+            "points": 60,
+            "powerPlayGoals": 8,
+            "season": 20112012,
+            "sequence": 1,
+            "shorthandedGoals": 2,
+            "teamName": {
+                "default": "Ottawa"
+            }
+        },
+        {
+            "assists": 13,
+            "gameTypeId": 3,
+            "gamesPlayed": 18,
+            "goals": 2,
+            "leagueAbbrev": "OHL",
+            "pim": 4,
+            "plusMinus": 1,
+            "points": 15,
+            "powerPlayGoals": 2,
+            "season": 20112012,
+            "sequence": 1,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Ottawa"
+            }
+        },
+        {
+            "assists": 29,
+            "gameTypeId": 2,
+            "gamesPlayed": 42,
+            "goals": 11,
+            "leagueAbbrev": "OHL",
+            "pim": 10,
+            "plusMinus": -14,
+            "points": 40,
+            "powerPlayGoals": 7,
+            "season": 20122013,
+            "sequence": 1,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Ottawa"
+            }
+        },
+        {
+            "assists": 16,
+            "gameTypeId": 2,
+            "gamesPlayed": 27,
+            "goals": 8,
+            "leagueAbbrev": "OHL",
+            "pim": 2,
+            "plusMinus": 6,
+            "points": 24,
+            "powerPlayGoals": 6,
+            "season": 20122013,
+            "sequence": 2,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Owen Sound"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 3,
+            "goals": 1,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": 2,
+            "points": 2,
+            "powerPlayGoals": 0,
+            "season": 20122013,
+            "sequence": 3,
+            "shootingPctg": 16.67,
+            "shorthandedGoals": 0,
+            "shots": 6,
+            "teamName": {
+                "default": "Binghamton"
+            }
+        },
+        {
+            "assists": 9,
+            "gameTypeId": 3,
+            "gamesPlayed": 12,
+            "goals": 1,
+            "leagueAbbrev": "OHL",
+            "pim": 0,
+            "plusMinus": -8,
+            "points": 10,
+            "powerPlayGoals": 1,
+            "season": 20122013,
+            "sequence": 2,
+            "shorthandedGoals": 0,
+            "teamName": {
+                "default": "Owen Sound"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 3,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "season": 20122013,
+            "sequence": 3,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shots": 5,
+            "teamName": {
+                "default": "Binghamton"
+            }
+        },
+        {
+            "assists": 6,
+            "avgToi": "17:12",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 49,
+            "goals": 3,
+            "leagueAbbrev": "NHL",
+            "otGoals": 1,
+            "pim": 14,
+            "plusMinus": -5,
+            "points": 9,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20132014,
+            "sequence": 1,
+            "shootingPctg": 0.0366,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 82,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 17,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 27,
+            "goals": 2,
+            "leagueAbbrev": "AHL",
+            "pim": 10,
+            "plusMinus": 11,
+            "points": 19,
+            "powerPlayGoals": 0,
+            "season": 20132014,
+            "sequence": 2,
+            "shootingPctg": 3.1,
+            "shorthandedGoals": 0,
+            "shots": 64,
+            "teamName": {
+                "default": "Binghamton"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 4,
+            "goals": 1,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": -5,
+            "points": 2,
+            "powerPlayGoals": 1,
+            "season": 20132014,
+            "sequence": 2,
+            "shootingPctg": 14.29,
+            "shorthandedGoals": 0,
+            "shots": 7,
+            "teamName": {
+                "default": "Binghamton"
+            }
+        },
+        {
+            "assists": 16,
+            "avgToi": "19:17",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 81,
+            "goals": 5,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 6,
+            "plusMinus": -4,
+            "points": 21,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 4,
+            "season": 20142015,
+            "sequence": 1,
+            "shootingPctg": 0.0385,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 130,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 2,
+            "avgToi": "18:00",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 6,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 2,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20142015,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 5,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 16,
+            "avgToi": "19:18",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 75,
+            "goals": 10,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 18,
+            "plusMinus": 9,
+            "points": 26,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 2,
+            "season": 20152016,
+            "sequence": 1,
+            "shootingPctg": 0.0862,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 116,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 5,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 10,
+            "goals": 1,
+            "leagueAbbrev": "WC-A",
+            "pim": 0,
+            "plusMinus": 8,
+            "points": 6,
+            "powerPlayGoals": 1,
+            "season": 20152016,
+            "sequence": 2,
+            "shorthandedGoals": 0,
+            "shots": 12,
+            "teamCommonName": {
+                "default": "Canada",
+                "cs": "Kanada",
+                "de": "Kanada",
+                "es": "Canadá",
+                "fi": "Kanada",
+                "sk": "Kanada",
+                "sv": "Kanada"
+            },
+            "teamName": {
+                "default": "Canada",
+                "cs": "Kanada",
+                "de": "Kanada",
+                "fi": "Kanada",
+                "sk": "Kanada",
+                "sv": "Kanada"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "  "
+            }
+        },
+        {
+            "assists": 15,
+            "avgToi": "23:12",
+            "faceoffWinningPctg": 1.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 79,
+            "goals": 2,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 20,
+            "plusMinus": -11,
+            "points": 17,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 1,
+            "season": 20162017,
+            "sequence": 1,
+            "shootingPctg": 0.014,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 2,
+            "shots": 143,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 1,
+            "avgToi": "23:36",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 19,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": -7,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20162017,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 23,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 14,
+            "avgToi": "23:20",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 82,
+            "goals": 5,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 12,
+            "plusMinus": -27,
+            "points": 19,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 5,
+            "season": 20172018,
+            "sequence": 1,
+            "shootingPctg": 0.035,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 143,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 19,
+            "avgToi": "22:34",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 74,
+            "goals": 7,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 18,
+            "plusMinus": -22,
+            "points": 26,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 1,
+            "season": 20182019,
+            "sequence": 1,
+            "shootingPctg": 0.053,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 132,
+            "teamCommonName": {
+                "default": "Senators",
+                "fr": "Sénateurs"
+            },
+            "teamName": {
+                "default": "Ottawa Senators",
+                "fr": "Sénateurs d'Ottawa"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Ottawa",
+                "fr": "d'Ottawa"
+            }
+        },
+        {
+            "assists": 7,
+            "avgToi": "20:32",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 56,
+            "goals": 1,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 20,
+            "plusMinus": 7,
+            "points": 8,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20192020,
+            "sequence": 1,
+            "shootingPctg": 0.021,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 48,
+            "teamCommonName": {
+                "default": "Maple Leafs"
+            },
+            "teamName": {
+                "default": "Toronto Maple Leafs",
+                "fr": "Maple Leafs de Toronto"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Toronto",
+                "fr": "de Toronto"
+            }
+        },
+        {
+            "assists": 0,
+            "avgToi": "20:43",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 5,
+            "goals": 1,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 4,
+            "plusMinus": 0,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20192020,
+            "sequence": 1,
+            "shootingPctg": 0.2,
+            "shorthandedGoals": 1,
+            "shorthandedPoints": 1,
+            "shots": 5,
+            "teamCommonName": {
+                "default": "Maple Leafs"
+            },
+            "teamName": {
+                "default": "Toronto Maple Leafs",
+                "fr": "Maple Leafs de Toronto"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Toronto",
+                "fr": "de Toronto"
+            }
+        },
+        {
+            "assists": 13,
+            "avgToi": "18:31",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 53,
+            "goals": 4,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 10,
+            "plusMinus": 18,
+            "points": 17,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20202021,
+            "sequence": 1,
+            "shootingPctg": 0.069,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 58,
+            "teamCommonName": {
+                "default": "Penguins"
+            },
+            "teamName": {
+                "default": "Pittsburgh Penguins",
+                "fr": "Penguins de Pittsburgh"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Pittsburgh",
+                "fr": "de Pittsburgh"
+            }
+        },
+        {
+            "assists": 2,
+            "avgToi": "22:25",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 6,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 0,
+            "plusMinus": -3,
+            "points": 2,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20202021,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 13,
+            "teamCommonName": {
+                "default": "Penguins"
+            },
+            "teamName": {
+                "default": "Pittsburgh Penguins",
+                "fr": "Penguins de Pittsburgh"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Pittsburgh",
+                "fr": "de Pittsburgh"
+            }
+        },
+        {
+            "assists": 23,
+            "avgToi": "20:54",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 78,
+            "goals": 5,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 14,
+            "plusMinus": 8,
+            "points": 28,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20212022,
+            "sequence": 1,
+            "shootingPctg": 0.049,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 3,
+            "shots": 102,
+            "teamCommonName": {
+                "default": "Oilers"
+            },
+            "teamName": {
+                "default": "Edmonton Oilers",
+                "fr": "Oilers d'Edmonton"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Edmonton",
+                "fr": "d'Edmonton"
+            }
+        },
+        {
+            "assists": 6,
+            "avgToi": "20:18",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 16,
+            "goals": 1,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 12,
+            "plusMinus": 4,
+            "points": 7,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20212022,
+            "sequence": 1,
+            "shootingPctg": 0.043,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 23,
+            "teamCommonName": {
+                "default": "Oilers"
+            },
+            "teamName": {
+                "default": "Edmonton Oilers",
+                "fr": "Oilers d'Edmonton"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Edmonton",
+                "fr": "d'Edmonton"
+            }
+        },
+        {
+            "assists": 14,
+            "avgToi": "20:08",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 80,
+            "goals": 1,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 24,
+            "plusMinus": 11,
+            "points": 15,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20222023,
+            "sequence": 1,
+            "shootingPctg": 0.011364,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 88,
+            "teamCommonName": {
+                "default": "Oilers"
+            },
+            "teamName": {
+                "default": "Edmonton Oilers",
+                "fr": "Oilers d'Edmonton"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Edmonton",
+                "fr": "d'Edmonton"
+            }
+        },
+        {
+            "assists": 1,
+            "avgToi": "18:59",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 12,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": -5,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20222023,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 14,
+            "teamCommonName": {
+                "default": "Oilers"
+            },
+            "teamName": {
+                "default": "Edmonton Oilers",
+                "fr": "Oilers d'Edmonton"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Edmonton",
+                "fr": "d'Edmonton"
+            }
+        },
+        {
+            "assists": 20,
+            "avgToi": "20:01",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 79,
+            "goals": 5,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 14,
+            "plusMinus": 12,
+            "points": 25,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20232024,
+            "sequence": 1,
+            "shootingPctg": 0.051546,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 1,
+            "shots": 97,
+            "teamCommonName": {
+                "default": "Oilers"
+            },
+            "teamName": {
+                "default": "Edmonton Oilers",
+                "fr": "Oilers d'Edmonton"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Edmonton",
+                "fr": "d'Edmonton"
+            }
+        },
+        {
+            "assists": 3,
+            "avgToi": "19:22",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 24,
+            "goals": 2,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 0,
+            "plusMinus": -5,
+            "points": 5,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20232024,
+            "sequence": 1,
+            "shootingPctg": 0.083333,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 24,
+            "teamCommonName": {
+                "default": "Oilers"
+            },
+            "teamName": {
+                "default": "Edmonton Oilers",
+                "fr": "Oilers d'Edmonton"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Edmonton",
+                "fr": "d'Edmonton"
+            }
+        },
+        {
+            "assists": 11,
+            "avgToi": "21:46",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 54,
+            "goals": 4,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 14,
+            "plusMinus": -9,
+            "points": 15,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.066667,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 60,
+            "teamCommonName": {
+                "default": "Sharks"
+            },
+            "teamName": {
+                "default": "San Jose Sharks",
+                "fr": "Sharks de San Jose"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "San Jose",
+                "fr": "de San Jose"
+            }
+        },
+        {
+            "assists": 9,
+            "avgToi": "20:14",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 31,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 10,
+            "plusMinus": 15,
+            "points": 9,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20242025,
+            "sequence": 2,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 1,
+            "shots": 30,
+            "teamCommonName": {
+                "default": "Stars"
+            },
+            "teamName": {
+                "default": "Dallas Stars",
+                "fr": "Stars de Dallas"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Dallas",
+                "fr": "de Dallas"
+            }
+        },
+        {
+            "assists": 3,
+            "avgToi": "21:56",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 13,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": -1,
+            "points": 3,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 13,
+            "teamCommonName": {
+                "default": "Stars"
+            },
+            "teamName": {
+                "default": "Dallas Stars",
+                "fr": "Stars de Dallas"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Dallas",
+                "fr": "de Dallas"
+            }
+        }
+    ],
+    "currentTeamRoster": [
+        {
+            "playerId": 8473994,
+            "lastName": {
+                "default": "Benn"
+            },
+            "firstName": {
+                "default": "Jamie"
+            },
+            "playerSlug": "jamie-benn-8473994"
+        },
+        {
+            "playerId": 8483425,
+            "lastName": {
+                "default": "Bichsel"
+            },
+            "firstName": {
+                "default": "Lian"
+            },
+            "playerSlug": "lian-bichsel-8483425"
+        },
+        {
+            "playerId": 8476278,
+            "lastName": {
+                "default": "Blackwell"
+            },
+            "firstName": {
+                "default": "Colin"
+            },
+            "playerSlug": "colin-blackwell-8476278"
+        },
+        {
+            "playerId": 8482145,
+            "lastName": {
+                "default": "Bourque"
+            },
+            "firstName": {
+                "default": "Mavrik"
+            },
+            "playerSlug": "mavrik-bourque-8482145"
+        },
+        {
+            "playerId": 8480840,
+            "lastName": {
+                "default": "Bäck"
+            },
+            "firstName": {
+                "default": "Oskar"
+            },
+            "playerSlug": "oskar-bäck-8480840"
+        },
+        {
+            "playerId": 8476879,
+            "lastName": {
+                "default": "Ceci"
+            },
+            "firstName": {
+                "default": "Cody"
+            },
+            "playerSlug": "cody-ceci-8476879"
+        },
+        {
+            "playerId": 8474149,
+            "lastName": {
+                "default": "Dadonov"
+            },
+            "firstName": {
+                "default": "Evgenii",
+                "cs": "Jevgenij",
+                "fi": "Jevgeni",
+                "sk": "Jevgenij"
+            },
+            "playerSlug": "evgenii-dadonov-8474149"
+        },
+        {
+            "playerId": 8479193,
+            "lastName": {
+                "default": "DeSmith"
+            },
+            "firstName": {
+                "default": "Casey"
+            },
+            "playerSlug": "casey-desmith-8479193"
+        },
+        {
+            "playerId": 8475168,
+            "lastName": {
+                "default": "Duchene"
+            },
+            "firstName": {
+                "default": "Matt"
+            },
+            "playerSlug": "matt-duchene-8475168"
+        },
+        {
+            "playerId": 8476856,
+            "lastName": {
+                "default": "Dumba"
+            },
+            "firstName": {
+                "default": "Mathew",
+                "cs": "Matt",
+                "de": "Matt",
+                "es": "Matt",
+                "fi": "Matt",
+                "sk": "Matt",
+                "sv": "Matt"
+            },
+            "playerSlug": "mathew-dumba-8476856"
+        },
+        {
+            "playerId": 8475798,
+            "lastName": {
+                "default": "Granlund"
+            },
+            "firstName": {
+                "default": "Mikael"
+            },
+            "playerSlug": "mikael-granlund-8475798"
+        },
+        {
+            "playerId": 8481581,
+            "lastName": {
+                "default": "Harley"
+            },
+            "firstName": {
+                "default": "Thomas"
+            },
+            "playerSlug": "thomas-harley-8481581"
+        },
+        {
+            "playerId": 8480036,
+            "lastName": {
+                "default": "Heiskanen"
+            },
+            "firstName": {
+                "default": "Miro"
+            },
+            "playerSlug": "miro-heiskanen-8480036"
+        },
+        {
+            "playerId": 8478449,
+            "lastName": {
+                "default": "Hintz"
+            },
+            "firstName": {
+                "default": "Roope"
+            },
+            "playerSlug": "roope-hintz-8478449"
+        },
+        {
+            "playerId": 8482740,
+            "lastName": {
+                "default": "Johnston"
+            },
+            "firstName": {
+                "default": "Wyatt"
+            },
+            "playerSlug": "wyatt-johnston-8482740"
+        },
+        {
+            "playerId": 8476902,
+            "lastName": {
+                "default": "Lindell"
+            },
+            "firstName": {
+                "default": "Esa"
+            },
+            "playerSlug": "esa-lindell-8476902"
+        },
+        {
+            "playerId": 8480878,
+            "lastName": {
+                "default": "Lundkvist"
+            },
+            "firstName": {
+                "default": "Nils"
+            },
+            "playerSlug": "nils-lundkvist-8480878"
+        },
+        {
+            "playerId": 8480950,
+            "lastName": {
+                "default": "Lyubushkin",
+                "cs": "Ljubuškin",
+                "fi": "Ljubushkin",
+                "sk": "Ljubuškin"
+            },
+            "firstName": {
+                "default": "Ilya",
+                "cs": "Ilja",
+                "fi": "Ilja",
+                "sk": "Iľja"
+            },
+            "playerSlug": "ilya-lyubushkin-8480950"
+        },
+        {
+            "playerId": 8478975,
+            "lastName": {
+                "default": "Marchment"
+            },
+            "firstName": {
+                "default": "Mason"
+            },
+            "playerSlug": "mason-marchment-8478975"
+        },
+        {
+            "playerId": 8479979,
+            "lastName": {
+                "default": "Oettinger"
+            },
+            "firstName": {
+                "default": "Jake"
+            },
+            "playerSlug": "jake-oettinger-8479979"
+        },
+        {
+            "playerId": 8475755,
+            "lastName": {
+                "default": "Petrovic"
+            },
+            "firstName": {
+                "default": "Alexander",
+                "es": "Alex"
+            },
+            "playerSlug": "alexander-petrovic-8475755"
+        },
+        {
+            "playerId": 8478420,
+            "lastName": {
+                "default": "Rantanen"
+            },
+            "firstName": {
+                "default": "Mikko"
+            },
+            "playerSlug": "mikko-rantanen-8478420"
+        },
+        {
+            "playerId": 8480027,
+            "lastName": {
+                "default": "Robertson"
+            },
+            "firstName": {
+                "default": "Jason"
+            },
+            "playerSlug": "jason-robertson-8480027"
+        },
+        {
+            "playerId": 8475794,
+            "lastName": {
+                "default": "Seguin"
+            },
+            "firstName": {
+                "default": "Tyler"
+            },
+            "playerSlug": "tyler-seguin-8475794"
+        },
+        {
+            "playerId": 8474090,
+            "lastName": {
+                "default": "Smith"
+            },
+            "firstName": {
+                "default": "Brendan"
+            },
+            "playerSlug": "brendan-smith-8474090"
+        },
+        {
+            "playerId": 8479351,
+            "lastName": {
+                "default": "Steel"
+            },
+            "firstName": {
+                "default": "Sam"
+            },
+            "playerSlug": "sam-steel-8479351"
+        }
+    ]
+}

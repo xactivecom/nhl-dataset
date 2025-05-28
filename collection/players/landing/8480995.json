@@ -1,0 +1,1373 @@
+{
+    "playerId": 8480995,
+    "isActive": true,
+    "currentTeamId": 10,
+    "currentTeamAbbrev": "TOR",
+    "fullTeamName": {
+        "default": "Toronto Maple Leafs",
+        "fr": "Maple Leafs de Toronto"
+    },
+    "teamCommonName": {
+        "default": "Maple Leafs"
+    },
+    "teamPlaceNameWithPreposition": {
+        "default": "Toronto",
+        "fr": "de Toronto"
+    },
+    "firstName": {
+        "default": "Pontus"
+    },
+    "lastName": {
+        "default": "Holmberg"
+    },
+    "badges": [],
+    "teamLogo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+    "sweaterNumber": 29,
+    "position": "R",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8480995.png",
+    "heroImage": "https://assets.nhle.com/mugs/actionshots/1296x729/8480995.jpg",
+    "heightInInches": 72,
+    "heightInCentimeters": 183,
+    "weightInPounds": 201,
+    "weightInKilograms": 91,
+    "birthDate": "1999-03-09",
+    "birthCity": {
+        "default": "Vasteras",
+        "cs": "Västeras",
+        "fi": "Västerås",
+        "sk": "Västeras",
+        "sv": "Västerås"
+    },
+    "birthCountry": "SWE",
+    "shootsCatches": "L",
+    "draftDetails": {
+        "year": 2018,
+        "teamAbbrev": "TOR",
+        "round": 6,
+        "pickInRound": 1,
+        "overallPick": 156
+    },
+    "playerSlug": "pontus-holmberg-8480995",
+    "inTop100AllTime": 0,
+    "inHHOF": 0,
+    "featuredStats": {
+        "season": 20242025,
+        "regularSeason": {
+            "subSeason": {
+                "assists": 12,
+                "gameWinningGoals": 0,
+                "gamesPlayed": 68,
+                "goals": 7,
+                "otGoals": 0,
+                "pim": 27,
+                "plusMinus": 4,
+                "points": 19,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 1,
+                "shootingPctg": 0.102941,
+                "shorthandedGoals": 1,
+                "shorthandedPoints": 1,
+                "shots": 68
+            },
+            "career": {
+                "assists": 30,
+                "gameWinningGoals": 3,
+                "gamesPlayed": 159,
+                "goals": 19,
+                "otGoals": 0,
+                "pim": 63,
+                "plusMinus": 15,
+                "points": 49,
+                "powerPlayGoals": 1,
+                "powerPlayPoints": 2,
+                "shootingPctg": 0.1275,
+                "shorthandedGoals": 1,
+                "shorthandedPoints": 1,
+                "shots": 149
+            }
+        },
+        "playoffs": {
+            "subSeason": {
+                "assists": 1,
+                "gameWinningGoals": 0,
+                "gamesPlayed": 11,
+                "goals": 0,
+                "otGoals": 0,
+                "pim": 4,
+                "plusMinus": -1,
+                "points": 1,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.0,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 11
+            },
+            "career": {
+                "assists": 1,
+                "gameWinningGoals": 0,
+                "gamesPlayed": 18,
+                "goals": 0,
+                "otGoals": 0,
+                "pim": 6,
+                "plusMinus": -4,
+                "points": 1,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.0,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 17
+            }
+        }
+    },
+    "careerTotals": {
+        "regularSeason": {
+            "assists": 30,
+            "avgToi": "11:46",
+            "faceoffWinningPctg": 0.4611,
+            "gameWinningGoals": 3,
+            "gamesPlayed": 159,
+            "goals": 19,
+            "otGoals": 0,
+            "pim": 63,
+            "plusMinus": 15,
+            "points": 49,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 2,
+            "shootingPctg": 0.1275,
+            "shorthandedGoals": 1,
+            "shorthandedPoints": 1,
+            "shots": 149
+        },
+        "playoffs": {
+            "assists": 1,
+            "avgToi": "12:17",
+            "faceoffWinningPctg": 0.5428000000000001,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 18,
+            "goals": 0,
+            "otGoals": 0,
+            "pim": 6,
+            "plusMinus": -4,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 17
+        }
+    },
+    "shopLink": "#TODO",
+    "twitterLink": "#TODO",
+    "watchLink": "#TODO",
+    "last5Games": [
+        {
+            "assists": 0,
+            "gameDate": "2025-05-16",
+            "gameId": 2024030216,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "FLA",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 21,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "TOR",
+            "toi": "16:38"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-11",
+            "gameId": 2024030214,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "FLA",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 11,
+            "shorthandedGoals": 0,
+            "shots": 0,
+            "teamAbbrev": "TOR",
+            "toi": "8:36"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-09",
+            "gameId": 2024030213,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "FLA",
+            "pim": 0,
+            "plusMinus": -2,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 25,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "TOR",
+            "toi": "18:12"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-07",
+            "gameId": 2024030212,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "FLA",
+            "pim": 2,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 14,
+            "shorthandedGoals": 0,
+            "shots": 1,
+            "teamAbbrev": "TOR",
+            "toi": "9:52"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-05-05",
+            "gameId": 2024030211,
+            "gameTypeId": 3,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "FLA",
+            "pim": 2,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 15,
+            "shorthandedGoals": 0,
+            "shots": 1,
+            "teamAbbrev": "TOR",
+            "toi": "8:02"
+        }
+    ],
+    "seasonTotals": [
+        {
+            "assists": 23,
+            "gameTypeId": 2,
+            "gamesPlayed": 28,
+            "goals": 13,
+            "leagueAbbrev": "U16 Elit",
+            "pim": 2,
+            "points": 36,
+            "season": 20132014,
+            "sequence": 162346,
+            "teamName": {
+                "default": "Västerås IK U16"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 5,
+            "goals": 0,
+            "leagueAbbrev": "TV-Pucken",
+            "pim": 0,
+            "points": 0,
+            "season": 20132014,
+            "sequence": 10381,
+            "teamName": {
+                "default": "Västmanland"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 4,
+            "goals": 2,
+            "leagueAbbrev": "J18 Elit",
+            "pim": 0,
+            "plusMinus": -2,
+            "points": 4,
+            "season": 20142015,
+            "sequence": 6634,
+            "teamName": {
+                "default": "Västerås IK J18"
+            }
+        },
+        {
+            "assists": 13,
+            "gameTypeId": 2,
+            "gamesPlayed": 11,
+            "goals": 11,
+            "leagueAbbrev": "J18 Div.1",
+            "pim": 2,
+            "points": 24,
+            "season": 20142015,
+            "sequence": 23018,
+            "teamName": {
+                "default": "Västerås IK Ungdom J18"
+            }
+        },
+        {
+            "assists": 46,
+            "gameTypeId": 2,
+            "gamesPlayed": 27,
+            "goals": 19,
+            "leagueAbbrev": "U16 Elit",
+            "pim": 8,
+            "points": 65,
+            "season": 20142015,
+            "sequence": 162346,
+            "teamName": {
+                "default": "Västerås IK U16"
+            }
+        },
+        {
+            "assists": 11,
+            "gameTypeId": 3,
+            "gamesPlayed": 11,
+            "goals": 7,
+            "leagueAbbrev": "TV-Pucken",
+            "pim": 2,
+            "points": 18,
+            "season": 20142015,
+            "sequence": 10381,
+            "teamName": {
+                "default": "Västmanland"
+            }
+        },
+        {
+            "assists": 25,
+            "gameTypeId": 2,
+            "gamesPlayed": 32,
+            "goals": 9,
+            "leagueAbbrev": "J18 Elit",
+            "pim": 8,
+            "points": 34,
+            "season": 20152016,
+            "sequence": 7728,
+            "teamName": {
+                "default": "Västerås IK J18"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 2,
+            "goals": 2,
+            "leagueAbbrev": "J18 Elit",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 2,
+            "season": 20152016,
+            "sequence": 7728,
+            "teamName": {
+                "default": "Västerås IK J18"
+            }
+        },
+        {
+            "assists": 12,
+            "gameTypeId": 2,
+            "gamesPlayed": 45,
+            "goals": 6,
+            "leagueAbbrev": "J20 SuperElit",
+            "pim": 10,
+            "plusMinus": -10,
+            "points": 18,
+            "season": 20162017,
+            "sequence": 5929,
+            "teamName": {
+                "default": "Västerås IK J20"
+            }
+        },
+        {
+            "assists": 11,
+            "gameTypeId": 2,
+            "gamesPlayed": 8,
+            "goals": 9,
+            "leagueAbbrev": "J18 Elit",
+            "pim": 6,
+            "points": 20,
+            "season": 20162017,
+            "sequence": 7728,
+            "teamName": {
+                "default": "Västerås IK J18"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 2,
+            "goals": 0,
+            "leagueAbbrev": "J18 Allsvenskan",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "season": 20162017,
+            "sequence": 8488,
+            "teamName": {
+                "default": "Västerås IK J18"
+            }
+        },
+        {
+            "assists": 4,
+            "gameTypeId": 3,
+            "gamesPlayed": 8,
+            "goals": 4,
+            "leagueAbbrev": "J18 Allsvenskan",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 8,
+            "season": 20162017,
+            "sequence": 8488,
+            "teamName": {
+                "default": "Västerås IK J18"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 2,
+            "goals": 0,
+            "leagueAbbrev": "SHL",
+            "pim": 0,
+            "plusMinus": 2,
+            "points": 0,
+            "season": 20172018,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 13,
+            "gameTypeId": 2,
+            "gamesPlayed": 36,
+            "goals": 7,
+            "leagueAbbrev": "HockeyEttan",
+            "pim": 10,
+            "plusMinus": 12,
+            "points": 20,
+            "season": 20172018,
+            "sequence": 4311,
+            "teamName": {
+                "default": "Västerås IK"
+            }
+        },
+        {
+            "assists": 6,
+            "gameTypeId": 2,
+            "gamesPlayed": 12,
+            "goals": 5,
+            "leagueAbbrev": "J20 SuperElit",
+            "pim": 4,
+            "plusMinus": 4,
+            "points": 11,
+            "season": 20172018,
+            "sequence": 5929,
+            "teamName": {
+                "default": "Västerås IK J20"
+            }
+        },
+        {
+            "assists": 4,
+            "gameTypeId": 3,
+            "gamesPlayed": 8,
+            "goals": 2,
+            "leagueAbbrev": "HockeyEttan",
+            "pim": 2,
+            "plusMinus": 4,
+            "points": 6,
+            "season": 20172018,
+            "sequence": 4311,
+            "teamName": {
+                "default": "Västerås IK"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 6,
+            "goals": 0,
+            "leagueAbbrev": "Champions HL",
+            "pim": 4,
+            "plusMinus": 3,
+            "points": 2,
+            "season": 20182019,
+            "sequence": 3502,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 7,
+            "gameTypeId": 2,
+            "gamesPlayed": 47,
+            "goals": 3,
+            "leagueAbbrev": "SHL",
+            "pim": 12,
+            "plusMinus": -2,
+            "points": 10,
+            "season": 20182019,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 5,
+            "goals": 0,
+            "leagueAbbrev": "WJC-20",
+            "pim": 0,
+            "plusMinus": 2,
+            "points": 0,
+            "season": 20182019,
+            "sequence": 8596,
+            "teamName": {
+                "default": "Sweden U20"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 7,
+            "goals": 0,
+            "leagueAbbrev": "SHL",
+            "pim": 2,
+            "plusMinus": -2,
+            "points": 0,
+            "season": 20182019,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 10,
+            "gameTypeId": 2,
+            "gamesPlayed": 52,
+            "goals": 7,
+            "leagueAbbrev": "SHL",
+            "pim": 14,
+            "plusMinus": 18,
+            "points": 17,
+            "season": 20192020,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 14,
+            "gameTypeId": 2,
+            "gamesPlayed": 45,
+            "goals": 9,
+            "leagueAbbrev": "SHL",
+            "pim": 16,
+            "plusMinus": 9,
+            "points": 23,
+            "season": 20202021,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 2,
+            "goals": 0,
+            "leagueAbbrev": "WC",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "season": 20202021,
+            "sequence": 6815,
+            "teamName": {
+                "default": "Sweden"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 3,
+            "goals": 1,
+            "leagueAbbrev": "EHT",
+            "pim": 2,
+            "plusMinus": 2,
+            "points": 3,
+            "season": 20202021,
+            "sequence": 89816,
+            "teamName": {
+                "default": "Sweden"
+            }
+        },
+        {
+            "assists": 7,
+            "gameTypeId": 3,
+            "gamesPlayed": 14,
+            "goals": 7,
+            "leagueAbbrev": "SHL",
+            "pim": 8,
+            "plusMinus": 10,
+            "points": 14,
+            "season": 20202021,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 2,
+            "gamesPlayed": 8,
+            "goals": 1,
+            "leagueAbbrev": "Champions HL",
+            "pim": 0,
+            "plusMinus": -3,
+            "points": 4,
+            "season": 20212022,
+            "sequence": 3502,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 30,
+            "gameTypeId": 2,
+            "gamesPlayed": 46,
+            "goals": 11,
+            "leagueAbbrev": "SHL",
+            "pim": 44,
+            "plusMinus": 5,
+            "points": 41,
+            "season": 20212022,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 6,
+            "goals": 0,
+            "leagueAbbrev": "OG",
+            "pim": 0,
+            "plusMinus": 1,
+            "points": 2,
+            "season": 20212022,
+            "sequence": 8302,
+            "teamName": {
+                "default": "Sweden"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 6,
+            "goals": 2,
+            "leagueAbbrev": "AHL",
+            "pim": 2,
+            "plusMinus": -1,
+            "points": 4,
+            "season": 20212022,
+            "sequence": 13377,
+            "teamName": {
+                "default": "Toronto Marlies"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 6,
+            "goals": 1,
+            "leagueAbbrev": "EHT",
+            "pim": 2,
+            "plusMinus": 1,
+            "points": 2,
+            "season": 20212022,
+            "sequence": 89816,
+            "teamName": {
+                "default": "Sweden"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 0,
+            "leagueAbbrev": "SHL",
+            "pim": 2,
+            "plusMinus": -3,
+            "points": 1,
+            "season": 20212022,
+            "sequence": 4189,
+            "teamName": {
+                "default": "Växjö Lakers HC"
+            }
+        },
+        {
+            "assists": 8,
+            "avgToi": "10:25",
+            "faceoffWinningPctg": 0.424658,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 37,
+            "goals": 5,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 18,
+            "plusMinus": 0,
+            "points": 13,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 1,
+            "season": 20222023,
+            "sequence": 1,
+            "shootingPctg": 0.185185,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 27,
+            "teamCommonName": {
+                "default": "Maple Leafs"
+            },
+            "teamName": {
+                "default": "Toronto Maple Leafs",
+                "fr": "Maple Leafs de Toronto"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Toronto",
+                "fr": "de Toronto"
+            }
+        },
+        {
+            "assists": 12,
+            "gameTypeId": 2,
+            "gamesPlayed": 38,
+            "goals": 10,
+            "leagueAbbrev": "AHL",
+            "pim": 18,
+            "plusMinus": -7,
+            "points": 22,
+            "season": 20222023,
+            "sequence": 13377,
+            "teamName": {
+                "default": "Toronto Marlies"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 3,
+            "gamesPlayed": 7,
+            "goals": 6,
+            "leagueAbbrev": "AHL",
+            "pim": 2,
+            "plusMinus": 0,
+            "points": 8,
+            "season": 20222023,
+            "sequence": 13377,
+            "teamName": {
+                "default": "Toronto Marlies"
+            }
+        },
+        {
+            "assists": 10,
+            "avgToi": "11:34",
+            "faceoffWinningPctg": 0.463054,
+            "gameTypeId": 2,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 54,
+            "goals": 7,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 18,
+            "plusMinus": 11,
+            "points": 17,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20232024,
+            "sequence": 1,
+            "shootingPctg": 0.12963,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 54,
+            "teamCommonName": {
+                "default": "Maple Leafs"
+            },
+            "teamName": {
+                "default": "Toronto Maple Leafs",
+                "fr": "Maple Leafs de Toronto"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Toronto",
+                "fr": "de Toronto"
+            }
+        },
+        {
+            "assists": 4,
+            "gameTypeId": 2,
+            "gamesPlayed": 11,
+            "goals": 6,
+            "leagueAbbrev": "AHL",
+            "pim": 4,
+            "plusMinus": 0,
+            "points": 10,
+            "season": 20232024,
+            "sequence": 13377,
+            "teamName": {
+                "default": "Toronto Marlies"
+            }
+        },
+        {
+            "assists": 0,
+            "avgToi": "11:42",
+            "faceoffWinningPctg": 0.56,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 7,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": -3,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20232024,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 6,
+            "teamCommonName": {
+                "default": "Maple Leafs"
+            },
+            "teamName": {
+                "default": "Toronto Maple Leafs",
+                "fr": "Maple Leafs de Toronto"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Toronto",
+                "fr": "de Toronto"
+            }
+        },
+        {
+            "assists": 12,
+            "avgToi": "12:40",
+            "faceoffWinningPctg": 0.487719,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 68,
+            "goals": 7,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 27,
+            "plusMinus": 4,
+            "points": 19,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 1,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.102941,
+            "shorthandedGoals": 1,
+            "shorthandedPoints": 1,
+            "shots": 68,
+            "teamCommonName": {
+                "default": "Maple Leafs"
+            },
+            "teamName": {
+                "default": "Toronto Maple Leafs",
+                "fr": "Maple Leafs de Toronto"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Toronto",
+                "fr": "de Toronto"
+            }
+        },
+        {
+            "assists": 1,
+            "avgToi": "12:39",
+            "faceoffWinningPctg": 0.5,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 11,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 4,
+            "plusMinus": -1,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 11,
+            "teamCommonName": {
+                "default": "Maple Leafs"
+            },
+            "teamName": {
+                "default": "Toronto Maple Leafs",
+                "fr": "Maple Leafs de Toronto"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Toronto",
+                "fr": "de Toronto"
+            }
+        }
+    ],
+    "currentTeamRoster": [
+        {
+            "playerId": 8481720,
+            "lastName": {
+                "default": "Abruzzese"
+            },
+            "firstName": {
+                "default": "Nick",
+                "cs": "Nicholas",
+                "de": "Nicholas",
+                "es": "Nicholas",
+                "fi": "Nicholas",
+                "sk": "Nicholas",
+                "sv": "Nicholas"
+            },
+            "playerSlug": "nick-abruzzese-8481720"
+        },
+        {
+            "playerId": 8482515,
+            "lastName": {
+                "default": "Akhtyamov"
+            },
+            "firstName": {
+                "default": "Artur"
+            },
+            "playerSlug": "artur-akhtyamov-8482515"
+        },
+        {
+            "playerId": 8476988,
+            "lastName": {
+                "default": "Benning"
+            },
+            "firstName": {
+                "default": "Matt"
+            },
+            "playerSlug": "matthew-benning-8476988"
+        },
+        {
+            "playerId": 8481122,
+            "lastName": {
+                "default": "Benoit"
+            },
+            "firstName": {
+                "default": "Simon"
+            },
+            "playerSlug": "simon-benoit-8481122"
+        },
+        {
+            "playerId": 8478443,
+            "lastName": {
+                "default": "Carlo"
+            },
+            "firstName": {
+                "default": "Brandon"
+            },
+            "playerSlug": "brandon-carlo-8478443"
+        },
+        {
+            "playerId": 8477503,
+            "lastName": {
+                "default": "Domi"
+            },
+            "firstName": {
+                "default": "Max"
+            },
+            "playerSlug": "max-domi-8477503"
+        },
+        {
+            "playerId": 8475171,
+            "lastName": {
+                "default": "Ekman-Larsson"
+            },
+            "firstName": {
+                "default": "Oliver"
+            },
+            "playerSlug": "oliver-ekman-larsson-8475171"
+        },
+        {
+            "playerId": 8475825,
+            "lastName": {
+                "default": "Hakanpää",
+                "de": "Hakanpaa",
+                "es": "Hakanpaa",
+                "fi": "Hakanpaa",
+                "sv": "Hakanpaa"
+            },
+            "firstName": {
+                "default": "Jani"
+            },
+            "playerSlug": "jani-hakanpää-8475825"
+        },
+        {
+            "playerId": 8483710,
+            "lastName": {
+                "default": "Hildeby"
+            },
+            "firstName": {
+                "default": "Dennis"
+            },
+            "playerSlug": "dennis-hildeby-8483710"
+        },
+        {
+            "playerId": 8482130,
+            "lastName": {
+                "default": "Hirvonen"
+            },
+            "firstName": {
+                "default": "Roni"
+            },
+            "playerSlug": "roni-hirvonen-8482130"
+        },
+        {
+            "playerId": 8480995,
+            "lastName": {
+                "default": "Holmberg"
+            },
+            "firstName": {
+                "default": "Pontus"
+            },
+            "playerSlug": "pontus-holmberg-8480995"
+        },
+        {
+            "playerId": 8475714,
+            "lastName": {
+                "default": "Jarnkrok",
+                "cs": "Järnkrok",
+                "fi": "Järnkrok",
+                "sk": "Järnkrok"
+            },
+            "firstName": {
+                "default": "Calle"
+            },
+            "playerSlug": "calle-jarnkrok-8475714"
+        },
+        {
+            "playerId": 8481147,
+            "lastName": {
+                "default": "Johnson"
+            },
+            "firstName": {
+                "default": "Reese"
+            },
+            "playerSlug": "reese-johnson-8481147"
+        },
+        {
+            "playerId": 8480144,
+            "lastName": {
+                "default": "Kampf",
+                "cs": "Kämpf",
+                "fi": "Kämpf",
+                "sk": "Kämpf",
+                "sv": "Kämpf"
+            },
+            "firstName": {
+                "default": "David"
+            },
+            "playerSlug": "david-kampf-8480144"
+        },
+        {
+            "playerId": 8482720,
+            "lastName": {
+                "default": "Knies"
+            },
+            "firstName": {
+                "default": "Matthew"
+            },
+            "playerSlug": "matthew-knies-8482720"
+        },
+        {
+            "playerId": 8481614,
+            "lastName": {
+                "default": "Kokkonen"
+            },
+            "firstName": {
+                "default": "Mikko"
+            },
+            "playerSlug": "mikko-kokkonen-8481614"
+        },
+        {
+            "playerId": 8476872,
+            "lastName": {
+                "default": "Laughton"
+            },
+            "firstName": {
+                "default": "Scott"
+            },
+            "playerSlug": "scott-laughton-8476872"
+        },
+        {
+            "playerId": 8478904,
+            "lastName": {
+                "default": "Lorentz"
+            },
+            "firstName": {
+                "default": "Steven"
+            },
+            "playerSlug": "steven-lorentz-8478904"
+        },
+        {
+            "playerId": 8478483,
+            "lastName": {
+                "default": "Marner"
+            },
+            "firstName": {
+                "default": "Mitch",
+                "cs": "Mitchell",
+                "de": "Mitchell",
+                "es": "Mitchell",
+                "fi": "Mitchell",
+                "sk": "Mitchell",
+                "sv": "Mitchell"
+            },
+            "playerSlug": "mitch-marner-8478483"
+        },
+        {
+            "playerId": 8479318,
+            "lastName": {
+                "default": "Matthews"
+            },
+            "firstName": {
+                "default": "Auston"
+            },
+            "playerSlug": "auston-matthews-8479318"
+        },
+        {
+            "playerId": 8476931,
+            "lastName": {
+                "default": "McCabe"
+            },
+            "firstName": {
+                "default": "Jake"
+            },
+            "playerSlug": "jake-mccabe-8476931"
+        },
+        {
+            "playerId": 8482259,
+            "lastName": {
+                "default": "McMann"
+            },
+            "firstName": {
+                "default": "Bobby"
+            },
+            "playerSlug": "bobby-mcmann-8482259"
+        },
+        {
+            "playerId": 8477541,
+            "lastName": {
+                "default": "Mermis"
+            },
+            "firstName": {
+                "default": "Dakota"
+            },
+            "playerSlug": "dakota-mermis-8477541"
+        },
+        {
+            "playerId": 8476899,
+            "lastName": {
+                "default": "Murray"
+            },
+            "firstName": {
+                "default": "Matt"
+            },
+            "playerSlug": "matt-murray-8476899"
+        },
+        {
+            "playerId": 8479026,
+            "lastName": {
+                "default": "Myers"
+            },
+            "firstName": {
+                "default": "Philippe"
+            },
+            "playerSlug": "philippe-myers-8479026"
+        },
+        {
+            "playerId": 8482158,
+            "lastName": {
+                "default": "Niemela"
+            },
+            "firstName": {
+                "default": "Topi"
+            },
+            "playerSlug": "topi-niemela-8482158"
+        },
+        {
+            "playerId": 8479423,
+            "lastName": {
+                "default": "Nylander"
+            },
+            "firstName": {
+                "default": "Alex",
+                "cs": "Alexander",
+                "de": "Alexander",
+                "fi": "Alexander",
+                "sk": "Alexander",
+                "sv": "Alexander"
+            },
+            "playerSlug": "alexander-nylander-8479423"
+        },
+        {
+            "playerId": 8477939,
+            "lastName": {
+                "default": "Nylander"
+            },
+            "firstName": {
+                "default": "William"
+            },
+            "playerSlug": "william-nylander-8477939"
+        },
+        {
+            "playerId": 8474157,
+            "lastName": {
+                "default": "Pacioretty"
+            },
+            "firstName": {
+                "default": "Max"
+            },
+            "playerSlug": "max-pacioretty-8474157"
+        },
+        {
+            "playerId": 8484901,
+            "lastName": {
+                "default": "Quillan"
+            },
+            "firstName": {
+                "default": "Jacob"
+            },
+            "playerSlug": "jacob-quillan-8484901"
+        },
+        {
+            "playerId": 8471817,
+            "lastName": {
+                "default": "Reaves"
+            },
+            "firstName": {
+                "default": "Ryan"
+            },
+            "playerSlug": "ryan-reaves-8471817"
+        },
+        {
+            "playerId": 8476853,
+            "lastName": {
+                "default": "Rielly"
+            },
+            "firstName": {
+                "default": "Morgan"
+            },
+            "playerSlug": "morgan-rielly-8476853"
+        },
+        {
+            "playerId": 8483546,
+            "lastName": {
+                "default": "Rifai"
+            },
+            "firstName": {
+                "default": "Marshall"
+            },
+            "playerSlug": "marshall-rifai-8483546"
+        },
+        {
+            "playerId": 8481582,
+            "lastName": {
+                "default": "Robertson"
+            },
+            "firstName": {
+                "default": "Nicholas"
+            },
+            "playerSlug": "nicholas-robertson-8481582"
+        },
+        {
+            "playerId": 8482634,
+            "lastName": {
+                "default": "Steeves"
+            },
+            "firstName": {
+                "default": "Alex"
+            },
+            "playerSlug": "alex-steeves-8482634"
+        },
+        {
+            "playerId": 8476932,
+            "lastName": {
+                "default": "Stolarz"
+            },
+            "firstName": {
+                "default": "Anthony"
+            },
+            "playerSlug": "anthony-stolarz-8476932"
+        },
+        {
+            "playerId": 8475690,
+            "lastName": {
+                "default": "Tanev"
+            },
+            "firstName": {
+                "default": "Chris",
+                "cs": "Christopher",
+                "de": "Christopher",
+                "es": "Christopher",
+                "fi": "Christopher",
+                "sk": "Christopher",
+                "sv": "Christopher"
+            },
+            "playerSlug": "chris-tanev-8475690"
+        },
+        {
+            "playerId": 8475166,
+            "lastName": {
+                "default": "Tavares"
+            },
+            "firstName": {
+                "default": "John"
+            },
+            "playerSlug": "john-tavares-8475166"
+        },
+        {
+            "playerId": 8482174,
+            "lastName": {
+                "default": "Villeneuve"
+            },
+            "firstName": {
+                "default": "William"
+            },
+            "playerSlug": "william-villeneuve-8482174"
+        },
+        {
+            "playerId": 8481570,
+            "lastName": {
+                "default": "Webber"
+            },
+            "firstName": {
+                "default": "Cade"
+            },
+            "playerSlug": "cade-webber-8481570"
+        },
+        {
+            "playerId": 8479361,
+            "lastName": {
+                "default": "Woll"
+            },
+            "firstName": {
+                "default": "Joseph"
+            },
+            "playerSlug": "joseph-woll-8479361"
+        }
+    ]
+}

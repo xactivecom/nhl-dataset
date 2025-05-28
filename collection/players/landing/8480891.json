@@ -1,0 +1,893 @@
+{
+    "playerId": 8480891,
+    "isActive": true,
+    "currentTeamId": 59,
+    "currentTeamAbbrev": "UTA",
+    "fullTeamName": {
+        "default": "Utah Hockey Club",
+        "fr": "Club de hockey de l'Utah"
+    },
+    "teamCommonName": {
+        "default": "Utah Hockey Club",
+        "fr": "Club de hockey de l'Utah"
+    },
+    "teamPlaceNameWithPreposition": {
+        "default": "Utah",
+        "fr": "de l'Utah"
+    },
+    "firstName": {
+        "default": "Michael"
+    },
+    "lastName": {
+        "default": "Kesselring"
+    },
+    "badges": [],
+    "teamLogo": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+    "sweaterNumber": 7,
+    "position": "D",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/UTA/8480891.png",
+    "heroImage": "https://assets.nhle.com/mugs/actionshots/1296x729/8480891.jpg",
+    "heightInInches": 77,
+    "heightInCentimeters": 196,
+    "weightInPounds": 215,
+    "weightInKilograms": 98,
+    "birthDate": "2000-01-13",
+    "birthCity": {
+        "default": "New Hampton"
+    },
+    "birthStateProvince": {
+        "default": "New Hampshire"
+    },
+    "birthCountry": "USA",
+    "shootsCatches": "R",
+    "draftDetails": {
+        "year": 2018,
+        "teamAbbrev": "EDM",
+        "round": 6,
+        "pickInRound": 9,
+        "overallPick": 164
+    },
+    "playerSlug": "michael-kesselring-8480891",
+    "inTop100AllTime": 0,
+    "inHHOF": 0,
+    "featuredStats": {
+        "season": 20242025,
+        "regularSeason": {
+            "subSeason": {
+                "assists": 22,
+                "gameWinningGoals": 1,
+                "gamesPlayed": 82,
+                "goals": 7,
+                "otGoals": 1,
+                "pim": 89,
+                "plusMinus": 4,
+                "points": 29,
+                "powerPlayGoals": 1,
+                "powerPlayPoints": 3,
+                "shootingPctg": 0.046667,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 150
+            },
+            "career": {
+                "assists": 41,
+                "gameWinningGoals": 3,
+                "gamesPlayed": 156,
+                "goals": 12,
+                "otGoals": 1,
+                "pim": 161,
+                "plusMinus": 14,
+                "points": 53,
+                "powerPlayGoals": 1,
+                "powerPlayPoints": 3,
+                "shootingPctg": 0.0512,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 234
+            }
+        }
+    },
+    "careerTotals": {
+        "regularSeason": {
+            "assists": 41,
+            "avgToi": "16:52",
+            "gameWinningGoals": 3,
+            "gamesPlayed": 156,
+            "goals": 12,
+            "otGoals": 1,
+            "pim": 161,
+            "plusMinus": 14,
+            "points": 53,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 3,
+            "shootingPctg": 0.0512,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 234
+        }
+    },
+    "shopLink": "#TODO",
+    "twitterLink": "#TODO",
+    "watchLink": "#TODO",
+    "last5Games": [
+        {
+            "assists": 0,
+            "gameDate": "2025-04-15",
+            "gameId": 2024021297,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "STL",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 23,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "UTA",
+            "toi": "16:00"
+        },
+        {
+            "assists": 1,
+            "gameDate": "2025-04-14",
+            "gameId": 2024021288,
+            "gameTypeId": 2,
+            "goals": 1,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "NSH",
+            "pim": 2,
+            "plusMinus": 2,
+            "points": 2,
+            "powerPlayGoals": 0,
+            "shifts": 25,
+            "shorthandedGoals": 0,
+            "shots": 4,
+            "teamAbbrev": "UTA",
+            "toi": "17:43"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-12",
+            "gameId": 2024021272,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "DAL",
+            "pim": 2,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 22,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "UTA",
+            "toi": "17:05"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-10",
+            "gameId": 2024021257,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "NSH",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 25,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "UTA",
+            "toi": "18:03"
+        },
+        {
+            "assists": 1,
+            "gameDate": "2025-04-08",
+            "gameId": 2024021243,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "SEA",
+            "pim": 2,
+            "plusMinus": 1,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "shifts": 25,
+            "shorthandedGoals": 0,
+            "shots": 1,
+            "teamAbbrev": "UTA",
+            "toi": "17:17"
+        }
+    ],
+    "seasonTotals": [
+        {
+            "assists": 4,
+            "gameTypeId": 2,
+            "gamesPlayed": 36,
+            "goals": 3,
+            "leagueAbbrev": "USHS-Prep",
+            "points": 7,
+            "season": 20142015,
+            "sequence": 57388,
+            "teamName": {
+                "default": "New Hampton School"
+            }
+        },
+        {
+            "assists": 11,
+            "gameTypeId": 2,
+            "gamesPlayed": 40,
+            "goals": 5,
+            "leagueAbbrev": "USHS-Prep",
+            "points": 16,
+            "season": 20152016,
+            "sequence": 58102,
+            "teamName": {
+                "default": "New Hampton School"
+            }
+        },
+        {
+            "assists": 20,
+            "gameTypeId": 2,
+            "gamesPlayed": 30,
+            "goals": 8,
+            "leagueAbbrev": "USHS-Prep",
+            "points": 28,
+            "season": 20162017,
+            "sequence": 58102,
+            "teamName": {
+                "default": "New Hampton School"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 2,
+            "goals": 0,
+            "leagueAbbrev": "EJEPL 16U",
+            "pim": 0,
+            "points": 1,
+            "season": 20162017,
+            "sequence": 221050,
+            "teamName": {
+                "default": "New Hampshire Avalanche 16U AAA"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 12,
+            "goals": 0,
+            "leagueAbbrev": "USHL",
+            "pim": 2,
+            "plusMinus": -3,
+            "points": 2,
+            "season": 20172018,
+            "sequence": 9926,
+            "teamName": {
+                "default": "Des Moines Buccaneers"
+            }
+        },
+        {
+            "assists": 23,
+            "gameTypeId": 2,
+            "gamesPlayed": 38,
+            "goals": 11,
+            "leagueAbbrev": "USHS-Prep",
+            "pim": 23,
+            "points": 34,
+            "season": 20172018,
+            "sequence": 58102,
+            "teamName": {
+                "default": "New Hampton School"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 5,
+            "goals": 2,
+            "leagueAbbrev": "USA-S17",
+            "points": 3,
+            "season": 20172018,
+            "sequence": 177445,
+            "teamName": {
+                "default": "Team Kelly"
+            }
+        },
+        {
+            "assists": 10,
+            "gameTypeId": 2,
+            "gamesPlayed": 33,
+            "goals": 2,
+            "leagueAbbrev": "USHL",
+            "pim": 8,
+            "plusMinus": 5,
+            "points": 12,
+            "season": 20182019,
+            "sequence": 9926,
+            "teamName": {
+                "default": "Des Moines Buccaneers"
+            }
+        },
+        {
+            "assists": 15,
+            "gameTypeId": 2,
+            "gamesPlayed": 33,
+            "goals": 7,
+            "leagueAbbrev": "USHL",
+            "pim": 20,
+            "plusMinus": 2,
+            "points": 22,
+            "season": 20182019,
+            "sequence": 12786,
+            "teamName": {
+                "default": "Fargo Force"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 2,
+            "goals": 0,
+            "leagueAbbrev": "USHL",
+            "pim": 0,
+            "plusMinus": -4,
+            "points": 0,
+            "season": 20182019,
+            "sequence": 12786,
+            "teamName": {
+                "default": "Fargo Force"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 2,
+            "gamesPlayed": 34,
+            "goals": 2,
+            "leagueAbbrev": "NCAA",
+            "pim": 35,
+            "plusMinus": -2,
+            "points": 5,
+            "season": 20192020,
+            "sequence": 15210,
+            "teamName": {
+                "default": "Northeastern Univ."
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 21,
+            "goals": 1,
+            "leagueAbbrev": "AHL",
+            "pim": 10,
+            "plusMinus": -2,
+            "points": 3,
+            "season": 20202021,
+            "sequence": 7257,
+            "teamName": {
+                "default": "Bakersfield Condors"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 2,
+            "gamesPlayed": 20,
+            "goals": 5,
+            "leagueAbbrev": "NCAA",
+            "pim": 23,
+            "plusMinus": -4,
+            "points": 8,
+            "season": 20202021,
+            "sequence": 15210,
+            "teamName": {
+                "default": "Northeastern Univ."
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 3,
+            "gamesPlayed": 6,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 2,
+            "plusMinus": 2,
+            "points": 3,
+            "season": 20202021,
+            "sequence": 7257,
+            "teamName": {
+                "default": "Bakersfield Condors"
+            }
+        },
+        {
+            "assists": 11,
+            "gameTypeId": 2,
+            "gamesPlayed": 55,
+            "goals": 2,
+            "leagueAbbrev": "AHL",
+            "pim": 45,
+            "plusMinus": 10,
+            "points": 13,
+            "season": 20212022,
+            "sequence": 7257,
+            "teamName": {
+                "default": "Bakersfield Condors"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": 1,
+            "points": 0,
+            "season": 20212022,
+            "sequence": 7257,
+            "teamName": {
+                "default": "Bakersfield Condors"
+            }
+        },
+        {
+            "assists": 3,
+            "avgToi": "17:06",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 9,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 6,
+            "plusMinus": -1,
+            "points": 3,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20222023,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 8,
+            "teamCommonName": {
+                "default": "Coyotes"
+            },
+            "teamName": {
+                "default": "Arizona Coyotes",
+                "fr": "Coyotes de l'Arizona"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Arizona",
+                "fr": "de l'Arizona"
+            }
+        },
+        {
+            "assists": 9,
+            "gameTypeId": 2,
+            "gamesPlayed": 49,
+            "goals": 13,
+            "leagueAbbrev": "AHL",
+            "pim": 40,
+            "plusMinus": 5,
+            "points": 22,
+            "season": 20222023,
+            "sequence": 7257,
+            "teamName": {
+                "default": "Bakersfield Condors"
+            }
+        },
+        {
+            "assists": 5,
+            "gameTypeId": 2,
+            "gamesPlayed": 10,
+            "goals": 2,
+            "leagueAbbrev": "AHL",
+            "pim": 7,
+            "plusMinus": 3,
+            "points": 7,
+            "season": 20222023,
+            "sequence": 218897,
+            "teamName": {
+                "default": "Tucson Roadrunners"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 3,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 2,
+            "plusMinus": -2,
+            "points": 0,
+            "season": 20222023,
+            "sequence": 218897,
+            "teamName": {
+                "default": "Tucson Roadrunners"
+            }
+        },
+        {
+            "assists": 16,
+            "avgToi": "15:48",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 65,
+            "goals": 5,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 66,
+            "plusMinus": 11,
+            "points": 21,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20232024,
+            "sequence": 1,
+            "shootingPctg": 0.065789,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 76,
+            "teamCommonName": {
+                "default": "Coyotes"
+            },
+            "teamName": {
+                "default": "Arizona Coyotes",
+                "fr": "Coyotes de l'Arizona"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Arizona",
+                "fr": "de l'Arizona"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 7,
+            "goals": 2,
+            "leagueAbbrev": "WC",
+            "pim": 0,
+            "plusMinus": 1,
+            "points": 3,
+            "season": 20232024,
+            "sequence": 17215,
+            "teamName": {
+                "default": "USA"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 1,
+            "goals": 0,
+            "leagueAbbrev": "International",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "season": 20232024,
+            "sequence": 40357,
+            "teamName": {
+                "default": "Team USA"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 6,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 11,
+            "plusMinus": -2,
+            "points": 0,
+            "season": 20232024,
+            "sequence": 218897,
+            "teamName": {
+                "default": "Tucson Roadrunners"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 2,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": -2,
+            "points": 0,
+            "season": 20232024,
+            "sequence": 218897,
+            "teamName": {
+                "default": "Tucson Roadrunners"
+            }
+        },
+        {
+            "assists": 22,
+            "avgToi": "17:41",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 82,
+            "goals": 7,
+            "leagueAbbrev": "NHL",
+            "otGoals": 1,
+            "pim": 89,
+            "plusMinus": 4,
+            "points": 29,
+            "powerPlayGoals": 1,
+            "powerPlayPoints": 3,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.046667,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 150,
+            "teamCommonName": {
+                "default": "Utah Hockey Club",
+                "fr": "Club de hockey de l'Utah"
+            },
+            "teamName": {
+                "default": "Utah Hockey Club",
+                "fr": "Club de hockey de l'Utah"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Utah",
+                "fr": "de l'Utah"
+            }
+        }
+    ],
+    "currentTeamRoster": [
+        {
+            "playerId": 8475760,
+            "lastName": {
+                "default": "Bjugstad"
+            },
+            "firstName": {
+                "default": "Nick"
+            },
+            "playerSlug": "nick-bjugstad-8475760"
+        },
+        {
+            "playerId": 8474145,
+            "lastName": {
+                "default": "Bortuzzo"
+            },
+            "firstName": {
+                "default": "Robert"
+            },
+            "playerSlug": "robert-bortuzzo-8474145"
+        },
+        {
+            "playerId": 8479619,
+            "lastName": {
+                "default": "Carcone"
+            },
+            "firstName": {
+                "default": "Michael"
+            },
+            "playerSlug": "michael-carcone-8479619"
+        },
+        {
+            "playerId": 8474013,
+            "lastName": {
+                "default": "Cole"
+            },
+            "firstName": {
+                "default": "Ian"
+            },
+            "playerSlug": "ian-cole-8474013"
+        },
+        {
+            "playerId": 8483431,
+            "lastName": {
+                "default": "Cooley"
+            },
+            "firstName": {
+                "default": "Logan"
+            },
+            "playerSlug": "logan-cooley-8483431"
+        },
+        {
+            "playerId": 8478474,
+            "lastName": {
+                "default": "Crouse"
+            },
+            "firstName": {
+                "default": "Lawson"
+            },
+            "playerSlug": "lawson-crouse-8478474"
+        },
+        {
+            "playerId": 8480084,
+            "lastName": {
+                "default": "DeSimone"
+            },
+            "firstName": {
+                "default": "Nick"
+            },
+            "playerSlug": "nick-desimone-8480084"
+        },
+        {
+            "playerId": 8482659,
+            "lastName": {
+                "default": "Doan"
+            },
+            "firstName": {
+                "default": "Josh"
+            },
+            "playerSlug": "josh-doan-8482659"
+        },
+        {
+            "playerId": 8480434,
+            "lastName": {
+                "default": "Durzi"
+            },
+            "firstName": {
+                "default": "Sean"
+            },
+            "playerSlug": "sean-durzi-8480434"
+        },
+        {
+            "playerId": 8482699,
+            "lastName": {
+                "default": "Guenther"
+            },
+            "firstName": {
+                "default": "Dylan"
+            },
+            "playerSlug": "dylan-guenther-8482699"
+        },
+        {
+            "playerId": 8480849,
+            "lastName": {
+                "default": "Hayton"
+            },
+            "firstName": {
+                "default": "Barrett"
+            },
+            "playerSlug": "barrett-hayton-8480849"
+        },
+        {
+            "playerId": 8478971,
+            "lastName": {
+                "default": "Ingram"
+            },
+            "firstName": {
+                "default": "Connor"
+            },
+            "playerSlug": "connor-ingram-8478971"
+        },
+        {
+            "playerId": 8479343,
+            "lastName": {
+                "default": "Keller"
+            },
+            "firstName": {
+                "default": "Clayton"
+            },
+            "playerSlug": "clayton-keller-8479343"
+        },
+        {
+            "playerId": 8477021,
+            "lastName": {
+                "default": "Kerfoot"
+            },
+            "firstName": {
+                "default": "Alexander",
+                "fr": "Alex"
+            },
+            "playerSlug": "alexander-kerfoot-8477021"
+        },
+        {
+            "playerId": 8480891,
+            "lastName": {
+                "default": "Kesselring"
+            },
+            "firstName": {
+                "default": "Michael"
+            },
+            "playerSlug": "michael-kesselring-8480891"
+        },
+        {
+            "playerId": 8481711,
+            "lastName": {
+                "default": "Maccelli"
+            },
+            "firstName": {
+                "default": "Matias"
+            },
+            "playerSlug": "matias-maccelli-8481711"
+        },
+        {
+            "playerId": 8478507,
+            "lastName": {
+                "default": "Marino"
+            },
+            "firstName": {
+                "default": "John"
+            },
+            "playerSlug": "john-marino-8478507"
+        },
+        {
+            "playerId": 8480855,
+            "lastName": {
+                "default": "McBain"
+            },
+            "firstName": {
+                "default": "Jack"
+            },
+            "playerSlug": "jack-mcbain-8480855"
+        },
+        {
+            "playerId": 8476874,
+            "lastName": {
+                "default": "Määttä",
+                "de": "Maatta",
+                "es": "Maatta",
+                "fr": "Maatta"
+            },
+            "firstName": {
+                "default": "Olli"
+            },
+            "playerSlug": "olli-määttä-8476874"
+        },
+        {
+            "playerId": 8477070,
+            "lastName": {
+                "default": "O'Brien"
+            },
+            "firstName": {
+                "default": "Liam"
+            },
+            "playerSlug": "liam-o-brien-8477070"
+        },
+        {
+            "playerId": 8477951,
+            "lastName": {
+                "default": "Schmaltz"
+            },
+            "firstName": {
+                "default": "Nick"
+            },
+            "playerSlug": "nick-schmaltz-8477951"
+        },
+        {
+            "playerId": 8479410,
+            "lastName": {
+                "default": "Sergachev",
+                "cs": "Sergačov",
+                "fi": "Sergatshov",
+                "sk": "Sergačov"
+            },
+            "firstName": {
+                "default": "Mikhail",
+                "cs": "Michail",
+                "fi": "Mihail",
+                "sk": "Michail"
+            },
+            "playerSlug": "mikhail-sergachev-8479410"
+        },
+        {
+            "playerId": 8478831,
+            "lastName": {
+                "default": "Stenlund"
+            },
+            "firstName": {
+                "default": "Kevin"
+            },
+            "playerSlug": "kevin-stenlund-8478831"
+        },
+        {
+            "playerId": 8478872,
+            "lastName": {
+                "default": "Vejmelka"
+            },
+            "firstName": {
+                "default": "Karel"
+            },
+            "playerSlug": "karel-vejmelka-8478872"
+        }
+    ]
+}

@@ -1,0 +1,655 @@
+{
+    "playerId": 8484227,
+    "isActive": true,
+    "currentTeamId": 28,
+    "currentTeamAbbrev": "SJS",
+    "fullTeamName": {
+        "default": "San Jose Sharks",
+        "fr": "Sharks de San Jose"
+    },
+    "teamCommonName": {
+        "default": "Sharks"
+    },
+    "teamPlaceNameWithPreposition": {
+        "default": "San Jose",
+        "fr": "de San Jose"
+    },
+    "firstName": {
+        "default": "Will"
+    },
+    "lastName": {
+        "default": "Smith"
+    },
+    "badges": [],
+    "teamLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+    "sweaterNumber": 2,
+    "position": "C",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/SJS/8484227.png",
+    "heroImage": "https://assets.nhle.com/mugs/actionshots/1296x729/8484227.jpg",
+    "heightInInches": 72,
+    "heightInCentimeters": 183,
+    "weightInPounds": 181,
+    "weightInKilograms": 82,
+    "birthDate": "2005-03-17",
+    "birthCity": {
+        "default": "Boston"
+    },
+    "birthStateProvince": {
+        "default": "Massachusetts"
+    },
+    "birthCountry": "USA",
+    "shootsCatches": "R",
+    "draftDetails": {
+        "year": 2023,
+        "teamAbbrev": "SJS",
+        "round": 1,
+        "pickInRound": 4,
+        "overallPick": 4
+    },
+    "playerSlug": "will-smith-8484227",
+    "inTop100AllTime": 0,
+    "inHHOF": 0,
+    "featuredStats": {
+        "season": 20242025,
+        "regularSeason": {
+            "subSeason": {
+                "assists": 27,
+                "gameWinningGoals": 1,
+                "gamesPlayed": 74,
+                "goals": 18,
+                "otGoals": 0,
+                "pim": 18,
+                "plusMinus": -15,
+                "points": 45,
+                "powerPlayGoals": 5,
+                "powerPlayPoints": 12,
+                "shootingPctg": 0.141732,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 127
+            },
+            "career": {
+                "assists": 27,
+                "gameWinningGoals": 1,
+                "gamesPlayed": 74,
+                "goals": 18,
+                "otGoals": 0,
+                "pim": 18,
+                "plusMinus": -15,
+                "points": 45,
+                "powerPlayGoals": 5,
+                "powerPlayPoints": 12,
+                "shootingPctg": 0.1417,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 127
+            }
+        }
+    },
+    "careerTotals": {
+        "regularSeason": {
+            "assists": 27,
+            "avgToi": "15:51",
+            "faceoffWinningPctg": 0.3651,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 74,
+            "goals": 18,
+            "otGoals": 0,
+            "pim": 18,
+            "plusMinus": -15,
+            "points": 45,
+            "powerPlayGoals": 5,
+            "powerPlayPoints": 12,
+            "shootingPctg": 0.1417,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 127
+        }
+    },
+    "shopLink": "#TODO",
+    "twitterLink": "#TODO",
+    "watchLink": "#TODO",
+    "last5Games": [
+        {
+            "assists": 0,
+            "gameDate": "2025-04-16",
+            "gameId": 2024021306,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "EDM",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 20,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "SJS",
+            "toi": "18:49"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-14",
+            "gameId": 2024021290,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "VAN",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 19,
+            "shorthandedGoals": 0,
+            "shots": 0,
+            "teamAbbrev": "SJS",
+            "toi": "17:13"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-13",
+            "gameId": 2024021283,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "CGY",
+            "pim": 0,
+            "plusMinus": -3,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 22,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "SJS",
+            "toi": "17:41"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-04-11",
+            "gameId": 2024021263,
+            "gameTypeId": 2,
+            "goals": 1,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "EDM",
+            "pim": 2,
+            "plusMinus": 0,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "shifts": 19,
+            "shorthandedGoals": 0,
+            "shots": 1,
+            "teamAbbrev": "SJS",
+            "toi": "20:04"
+        },
+        {
+            "assists": 3,
+            "gameDate": "2025-04-09",
+            "gameId": 2024021247,
+            "gameTypeId": 2,
+            "goals": 1,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "MIN",
+            "pim": 0,
+            "plusMinus": 2,
+            "points": 4,
+            "powerPlayGoals": 0,
+            "shifts": 22,
+            "shorthandedGoals": 0,
+            "shots": 3,
+            "teamAbbrev": "SJS",
+            "toi": "20:44"
+        }
+    ],
+    "seasonTotals": [
+        {
+            "assists": 3,
+            "gameTypeId": 2,
+            "gamesPlayed": 6,
+            "goals": 5,
+            "leagueAbbrev": "Brick Invitational",
+            "pim": 2,
+            "points": 8,
+            "season": 20142015,
+            "sequence": 128876,
+            "teamName": {
+                "default": "Boston Jr. Bruins"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 1,
+            "goals": 0,
+            "leagueAbbrev": "Brick Invitational",
+            "pim": 0,
+            "points": 0,
+            "season": 20142015,
+            "sequence": 128876,
+            "teamName": {
+                "default": "Boston Jr. Bruins"
+            }
+        },
+        {
+            "assists": 8,
+            "gameTypeId": 2,
+            "gamesPlayed": 6,
+            "goals": 6,
+            "leagueAbbrev": "QC Int PW",
+            "pim": 2,
+            "points": 14,
+            "season": 20172018,
+            "sequence": 148622,
+            "teamName": {
+                "default": "Boston Jr. Eagles"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 4,
+            "goals": 2,
+            "leagueAbbrev": "WJC-18",
+            "pim": 0,
+            "plusMinus": 5,
+            "points": 4,
+            "season": 20212022,
+            "sequence": 17253,
+            "teamName": {
+                "default": "USA U18"
+            }
+        },
+        {
+            "assists": 13,
+            "gameTypeId": 2,
+            "gamesPlayed": 28,
+            "goals": 14,
+            "leagueAbbrev": "NTDP",
+            "pim": 20,
+            "plusMinus": 29,
+            "points": 27,
+            "season": 20212022,
+            "sequence": 20767,
+            "teamName": {
+                "default": "U.S. National U18 Team"
+            }
+        },
+        {
+            "assists": 20,
+            "gameTypeId": 2,
+            "gamesPlayed": 35,
+            "goals": 17,
+            "leagueAbbrev": "NTDP",
+            "pim": 8,
+            "points": 37,
+            "season": 20212022,
+            "sequence": 20937,
+            "teamName": {
+                "default": "U.S. National U17 Team"
+            }
+        },
+        {
+            "assists": 14,
+            "gameTypeId": 2,
+            "gamesPlayed": 36,
+            "goals": 14,
+            "leagueAbbrev": "USHL",
+            "pim": 28,
+            "plusMinus": 2,
+            "points": 28,
+            "season": 20212022,
+            "sequence": 52486,
+            "teamName": {
+                "default": "USNTDP Juniors"
+            }
+        },
+        {
+            "assists": 11,
+            "gameTypeId": 2,
+            "gamesPlayed": 7,
+            "goals": 9,
+            "leagueAbbrev": "WJC-18",
+            "pim": 2,
+            "plusMinus": 15,
+            "points": 20,
+            "season": 20222023,
+            "sequence": 17253,
+            "teamName": {
+                "default": "USA U18"
+            }
+        },
+        {
+            "assists": 76,
+            "gameTypeId": 2,
+            "gamesPlayed": 60,
+            "goals": 51,
+            "leagueAbbrev": "NTDP",
+            "pim": 28,
+            "plusMinus": 71,
+            "points": 127,
+            "season": 20222023,
+            "sequence": 20767,
+            "teamName": {
+                "default": "U.S. National U18 Team"
+            }
+        },
+        {
+            "assists": 27,
+            "gameTypeId": 2,
+            "gamesPlayed": 20,
+            "goals": 15,
+            "leagueAbbrev": "USHL",
+            "pim": 20,
+            "plusMinus": 18,
+            "points": 42,
+            "season": 20222023,
+            "sequence": 52486,
+            "teamName": {
+                "default": "USNTDP Juniors"
+            }
+        },
+        {
+            "assists": 46,
+            "gameTypeId": 2,
+            "gamesPlayed": 41,
+            "goals": 25,
+            "leagueAbbrev": "NCAA",
+            "pim": 14,
+            "plusMinus": 25,
+            "points": 71,
+            "season": 20232024,
+            "sequence": 9670,
+            "teamName": {
+                "default": "Boston College"
+            }
+        },
+        {
+            "assists": 5,
+            "gameTypeId": 2,
+            "gamesPlayed": 7,
+            "goals": 4,
+            "leagueAbbrev": "WJC-20",
+            "pim": 0,
+            "plusMinus": 4,
+            "points": 9,
+            "season": 20232024,
+            "sequence": 17276,
+            "teamName": {
+                "default": "USA U20"
+            }
+        },
+        {
+            "assists": 27,
+            "avgToi": "15:51",
+            "faceoffWinningPctg": 0.365169,
+            "gameTypeId": 2,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 74,
+            "goals": 18,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 18,
+            "plusMinus": -15,
+            "points": 45,
+            "powerPlayGoals": 5,
+            "powerPlayPoints": 12,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.141732,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 127,
+            "teamCommonName": {
+                "default": "Sharks"
+            },
+            "teamName": {
+                "default": "San Jose Sharks",
+                "fr": "Sharks de San Jose"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "San Jose",
+                "fr": "de San Jose"
+            }
+        }
+    ],
+    "currentTeamRoster": [
+        {
+            "playerId": 8482133,
+            "lastName": {
+                "default": "Bordeleau"
+            },
+            "firstName": {
+                "default": "Thomas"
+            },
+            "playerSlug": "thomas-bordeleau-8482133"
+        },
+        {
+            "playerId": 8484801,
+            "lastName": {
+                "default": "Celebrini"
+            },
+            "firstName": {
+                "default": "Macklin"
+            },
+            "playerSlug": "macklin-celebrini-8484801"
+        },
+        {
+            "playerId": 8474053,
+            "lastName": {
+                "default": "Couture"
+            },
+            "firstName": {
+                "default": "Logan"
+            },
+            "playerSlug": "logan-couture-8474053"
+        },
+        {
+            "playerId": 8480848,
+            "lastName": {
+                "default": "Dellandrea"
+            },
+            "firstName": {
+                "default": "Ty"
+            },
+            "playerSlug": "ty-dellandrea-8480848"
+        },
+        {
+            "playerId": 8479576,
+            "lastName": {
+                "default": "Desharnais"
+            },
+            "firstName": {
+                "default": "Vincent"
+            },
+            "playerSlug": "vincent-desharnais-8479576"
+        },
+        {
+            "playerId": 8482667,
+            "lastName": {
+                "default": "Eklund"
+            },
+            "firstName": {
+                "default": "William"
+            },
+            "playerSlug": "william-eklund-8482667"
+        },
+        {
+            "playerId": 8479983,
+            "lastName": {
+                "default": "Ferraro"
+            },
+            "firstName": {
+                "default": "Mario"
+            },
+            "playerSlug": "mario-ferraro-8479983"
+        },
+        {
+            "playerId": 8480382,
+            "lastName": {
+                "default": "Georgiev",
+                "cs": "Georgijev",
+                "fi": "Georgijev",
+                "sk": "Georgijev"
+            },
+            "firstName": {
+                "default": "Alexandar",
+                "fi": "Aleksandar"
+            },
+            "playerSlug": "alexandar-georgiev-8480382"
+        },
+        {
+            "playerId": 8476624,
+            "lastName": {
+                "default": "Goodrow"
+            },
+            "firstName": {
+                "default": "Barclay"
+            },
+            "playerSlug": "barclay-goodrow-8476624"
+        },
+        {
+            "playerId": 8479393,
+            "lastName": {
+                "default": "Gregor"
+            },
+            "firstName": {
+                "default": "Noah"
+            },
+            "playerSlug": "noah-gregor-8479393"
+        },
+        {
+            "playerId": 8479336,
+            "lastName": {
+                "default": "Grundstrom",
+                "cs": "Grundström",
+                "fi": "Grundström",
+                "sk": "Grundström",
+                "sv": "Grundström"
+            },
+            "firstName": {
+                "default": "Carl"
+            },
+            "playerSlug": "carl-grundstrom-8479336"
+        },
+        {
+            "playerId": 8480011,
+            "lastName": {
+                "default": "Kostin"
+            },
+            "firstName": {
+                "default": "Klim"
+            },
+            "playerSlug": "klim-kostin-8480011"
+        },
+        {
+            "playerId": 8481042,
+            "lastName": {
+                "default": "Kovalenko"
+            },
+            "firstName": {
+                "default": "Nikolai"
+            },
+            "playerSlug": "nikolai-kovalenko-8481042"
+        },
+        {
+            "playerId": 8480043,
+            "lastName": {
+                "default": "Liljegren"
+            },
+            "firstName": {
+                "default": "Timothy"
+            },
+            "playerSlug": "timothy-liljegren-8480043"
+        },
+        {
+            "playerId": 8483481,
+            "lastName": {
+                "default": "Lund"
+            },
+            "firstName": {
+                "default": "Cam"
+            },
+            "playerSlug": "cam-lund-8483481"
+        },
+        {
+            "playerId": 8482166,
+            "lastName": {
+                "default": "Mukhamadullin"
+            },
+            "firstName": {
+                "default": "Shakir"
+            },
+            "playerSlug": "shakir-mukhamadullin-8482166"
+        },
+        {
+            "playerId": 8484312,
+            "lastName": {
+                "default": "Romanov"
+            },
+            "firstName": {
+                "default": "Georgi"
+            },
+            "playerSlug": "georgi-romanov-8484312"
+        },
+        {
+            "playerId": 8480172,
+            "lastName": {
+                "default": "Rutta"
+            },
+            "firstName": {
+                "default": "Jan"
+            },
+            "playerSlug": "jan-rutta-8480172"
+        },
+        {
+            "playerId": 8484227,
+            "lastName": {
+                "default": "Smith"
+            },
+            "firstName": {
+                "default": "Will"
+            },
+            "playerSlug": "will-smith-8484227"
+        },
+        {
+            "playerId": 8481567,
+            "lastName": {
+                "default": "Thrun"
+            },
+            "firstName": {
+                "default": "Henry"
+            },
+            "playerSlug": "henry-thrun-8481567"
+        },
+        {
+            "playerId": 8475726,
+            "lastName": {
+                "default": "Toffoli"
+            },
+            "firstName": {
+                "default": "Tyler"
+            },
+            "playerSlug": "tyler-toffoli-8475726"
+        },
+        {
+            "playerId": 8471709,
+            "lastName": {
+                "default": "Vlasic"
+            },
+            "firstName": {
+                "default": "Marc-Edouard"
+            },
+            "playerSlug": "marc-edouard-vlasic-8471709"
+        },
+        {
+            "playerId": 8477505,
+            "lastName": {
+                "default": "Wennberg"
+            },
+            "firstName": {
+                "default": "Alexander"
+            },
+            "playerSlug": "alexander-wennberg-8477505"
+        }
+    ]
+}

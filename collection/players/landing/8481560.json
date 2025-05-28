@@ -1,0 +1,1059 @@
+{
+    "playerId": 8481560,
+    "isActive": true,
+    "currentTeamId": 3,
+    "currentTeamAbbrev": "NYR",
+    "fullTeamName": {
+        "default": "New York Rangers",
+        "fr": "Rangers de New York"
+    },
+    "teamCommonName": {
+        "default": "Rangers"
+    },
+    "teamPlaceNameWithPreposition": {
+        "default": "New York",
+        "fr": "de New York"
+    },
+    "firstName": {
+        "default": "Arthur"
+    },
+    "lastName": {
+        "default": "Kaliyev"
+    },
+    "badges": [],
+    "teamLogo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+    "sweaterNumber": 34,
+    "position": "R",
+    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/NYR/8481560.png",
+    "heroImage": "https://assets.nhle.com/mugs/actionshots/1296x729/8481560.jpg",
+    "heightInInches": 74,
+    "heightInCentimeters": 188,
+    "weightInPounds": 210,
+    "weightInKilograms": 95,
+    "birthDate": "2001-06-26",
+    "birthCity": {
+        "default": "Tashkent"
+    },
+    "birthCountry": "UZB",
+    "shootsCatches": "L",
+    "draftDetails": {
+        "year": 2019,
+        "teamAbbrev": "LAK",
+        "round": 2,
+        "pickInRound": 2,
+        "overallPick": 33
+    },
+    "playerSlug": "arthur-kaliyev-8481560",
+    "inTop100AllTime": 0,
+    "inHHOF": 0,
+    "featuredStats": {
+        "season": 20242025,
+        "regularSeason": {
+            "subSeason": {
+                "assists": 1,
+                "gameWinningGoals": 0,
+                "gamesPlayed": 14,
+                "goals": 3,
+                "otGoals": 0,
+                "pim": 2,
+                "plusMinus": 2,
+                "points": 4,
+                "powerPlayGoals": 0,
+                "powerPlayPoints": 0,
+                "shootingPctg": 0.142857,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 21
+            },
+            "career": {
+                "assists": 37,
+                "gameWinningGoals": 3,
+                "gamesPlayed": 202,
+                "goals": 38,
+                "otGoals": 0,
+                "pim": 65,
+                "plusMinus": -10,
+                "points": 75,
+                "powerPlayGoals": 17,
+                "powerPlayPoints": 25,
+                "shootingPctg": 0.08650000000000001,
+                "shorthandedGoals": 0,
+                "shorthandedPoints": 0,
+                "shots": 439
+            }
+        }
+    },
+    "careerTotals": {
+        "regularSeason": {
+            "assists": 37,
+            "avgToi": "12:05",
+            "faceoffWinningPctg": 0.0,
+            "gameWinningGoals": 3,
+            "gamesPlayed": 202,
+            "goals": 38,
+            "otGoals": 0,
+            "pim": 65,
+            "plusMinus": -10,
+            "points": 75,
+            "powerPlayGoals": 17,
+            "powerPlayPoints": 25,
+            "shootingPctg": 0.08650000000000001,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 439
+        },
+        "playoffs": {
+            "assists": 0,
+            "avgToi": "11:58",
+            "gameWinningGoals": 0,
+            "gamesPlayed": 9,
+            "goals": 0,
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": -4,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 16
+        }
+    },
+    "shopLink": "#TODO",
+    "twitterLink": "#TODO",
+    "watchLink": "#TODO",
+    "last5Games": [
+        {
+            "assists": 0,
+            "gameDate": "2025-03-11",
+            "gameId": 2024021031,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "WPG",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 13,
+            "shorthandedGoals": 0,
+            "shots": 1,
+            "teamAbbrev": "NYR",
+            "toi": "7:49"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-02-23",
+            "gameId": 2024020907,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "PIT",
+            "pim": 0,
+            "plusMinus": 1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 16,
+            "shorthandedGoals": 0,
+            "shots": 0,
+            "teamAbbrev": "NYR",
+            "toi": "12:05"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-02-22",
+            "gameId": 2024020895,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "BUF",
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 19,
+            "shorthandedGoals": 0,
+            "shots": 1,
+            "teamAbbrev": "NYR",
+            "toi": "12:30"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-02-08",
+            "gameId": 2024020882,
+            "gameTypeId": 2,
+            "goals": 1,
+            "homeRoadFlag": "R",
+            "opponentAbbrev": "CBJ",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "shifts": 18,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "NYR",
+            "toi": "13:15"
+        },
+        {
+            "assists": 0,
+            "gameDate": "2025-01-28",
+            "gameId": 2024020802,
+            "gameTypeId": 2,
+            "goals": 0,
+            "homeRoadFlag": "H",
+            "opponentAbbrev": "CAR",
+            "pim": 0,
+            "plusMinus": 0,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "shifts": 15,
+            "shorthandedGoals": 0,
+            "shots": 2,
+            "teamAbbrev": "NYR",
+            "toi": "11:14"
+        }
+    ],
+    "seasonTotals": [
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 4,
+            "goals": 3,
+            "leagueAbbrev": "QC Int PW",
+            "pim": 0,
+            "points": 3,
+            "season": 20122013,
+            "sequence": 172432,
+            "teamName": {
+                "default": "Connecticut Yankees"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 3,
+            "leagueAbbrev": "QC Int PW",
+            "pim": 0,
+            "points": 3,
+            "season": 20122013,
+            "sequence": 10244995,
+            "teamName": {
+                "default": "Connecticut Yankees"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 4,
+            "goals": 5,
+            "leagueAbbrev": "QC Int PW",
+            "pim": 0,
+            "points": 6,
+            "season": 20132014,
+            "sequence": 122932,
+            "teamName": {
+                "default": "New York Jr. Rangers"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 5,
+            "leagueAbbrev": "QC Int PW",
+            "pim": 0,
+            "points": 6,
+            "season": 20132014,
+            "sequence": 10195495,
+            "teamName": {
+                "default": "New York Jr. Rangers"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 2,
+            "gamesPlayed": 16,
+            "goals": 5,
+            "leagueAbbrev": "HPBHL",
+            "pim": 4,
+            "points": 8,
+            "season": 20142015,
+            "sequence": 142475,
+            "teamName": {
+                "default": "Little Caesars Bantam Major AAA"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 7,
+            "goals": 6,
+            "leagueAbbrev": "WSI U15",
+            "pim": 2,
+            "points": 8,
+            "season": 20152016,
+            "sequence": 206210,
+            "teamName": {
+                "default": "East Coast Selects Q U15"
+            }
+        },
+        {
+            "assists": 5,
+            "gameTypeId": 2,
+            "gamesPlayed": 19,
+            "goals": 13,
+            "leagueAbbrev": "HPHL 16U",
+            "pim": 2,
+            "points": 18,
+            "season": 20162017,
+            "sequence": 97641,
+            "teamName": {
+                "default": "Compuware 16U AAA"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 3,
+            "goals": 2,
+            "leagueAbbrev": "USA-S15",
+            "points": 4,
+            "season": 20162017,
+            "sequence": 178273,
+            "teamName": {
+                "default": "Team Grey"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 5,
+            "goals": 6,
+            "leagueAbbrev": "USA-S16",
+            "points": 7,
+            "season": 20172018,
+            "sequence": 177514,
+            "teamName": {
+                "default": "Team Black"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 2,
+            "gamesPlayed": 4,
+            "goals": 0,
+            "leagueAbbrev": "M-Cup",
+            "pim": 0,
+            "plusMinus": -2,
+            "points": 0,
+            "season": 20172018,
+            "sequence": 186661,
+            "teamName": {
+                "default": "Hamilton Bulldogs"
+            }
+        },
+        {
+            "assists": 17,
+            "gameTypeId": 2,
+            "gamesPlayed": 68,
+            "goals": 31,
+            "leagueAbbrev": "OHL",
+            "pim": 20,
+            "plusMinus": 17,
+            "points": 48,
+            "season": 20172018,
+            "sequence": 186878,
+            "teamName": {
+                "default": "Brantford Bulldogs"
+            }
+        },
+        {
+            "assists": 8,
+            "gameTypeId": 3,
+            "gamesPlayed": 21,
+            "goals": 3,
+            "leagueAbbrev": "OHL",
+            "pim": 6,
+            "plusMinus": 6,
+            "points": 11,
+            "season": 20172018,
+            "sequence": 186878,
+            "teamName": {
+                "default": "Brantford Bulldogs"
+            }
+        },
+        {
+            "assists": 3,
+            "gameTypeId": 2,
+            "gamesPlayed": 5,
+            "goals": 3,
+            "leagueAbbrev": "Hlinka Gretzky Cup",
+            "pim": 0,
+            "points": 6,
+            "season": 20182019,
+            "sequence": 140070,
+            "teamName": {
+                "default": "USA U18"
+            }
+        },
+        {
+            "assists": 4,
+            "gameTypeId": 2,
+            "gamesPlayed": 5,
+            "goals": 1,
+            "leagueAbbrev": "USA-S17",
+            "pim": 2,
+            "points": 5,
+            "season": 20182019,
+            "sequence": 177555,
+            "teamName": {
+                "default": "Team Royal"
+            }
+        },
+        {
+            "assists": 51,
+            "gameTypeId": 2,
+            "gamesPlayed": 67,
+            "goals": 51,
+            "leagueAbbrev": "OHL",
+            "pim": 22,
+            "plusMinus": -13,
+            "points": 102,
+            "season": 20182019,
+            "sequence": 186878,
+            "teamName": {
+                "default": "Brantford Bulldogs"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 3,
+            "gamesPlayed": 4,
+            "goals": 1,
+            "leagueAbbrev": "OHL",
+            "pim": 0,
+            "plusMinus": -8,
+            "points": 2,
+            "season": 20182019,
+            "sequence": 186878,
+            "teamName": {
+                "default": "Brantford Bulldogs"
+            }
+        },
+        {
+            "assists": 2,
+            "gameTypeId": 2,
+            "gamesPlayed": 5,
+            "goals": 4,
+            "leagueAbbrev": "WJC-20",
+            "pim": 4,
+            "plusMinus": 4,
+            "points": 6,
+            "season": 20192020,
+            "sequence": 17276,
+            "teamName": {
+                "default": "USA U20"
+            }
+        },
+        {
+            "assists": 54,
+            "gameTypeId": 2,
+            "gamesPlayed": 57,
+            "goals": 44,
+            "leagueAbbrev": "OHL",
+            "pim": 28,
+            "plusMinus": -7,
+            "points": 98,
+            "season": 20192020,
+            "sequence": 186878,
+            "teamName": {
+                "default": "Brantford Bulldogs"
+            }
+        },
+        {
+            "assists": 0,
+            "avgToi": "14:42",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 1,
+            "goals": 1,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 1,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20202021,
+            "sequence": 1,
+            "shootingPctg": 1.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 1,
+            "teamCommonName": {
+                "default": "Kings"
+            },
+            "teamName": {
+                "default": "Los Angeles Kings",
+                "fr": "Kings de Los Angeles"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Los Angeles",
+                "fr": "de Los Angeles"
+            }
+        },
+        {
+            "assists": 5,
+            "gameTypeId": 2,
+            "gamesPlayed": 7,
+            "goals": 3,
+            "leagueAbbrev": "WJC-20",
+            "pim": 4,
+            "plusMinus": 9,
+            "points": 8,
+            "season": 20202021,
+            "sequence": 17276,
+            "teamName": {
+                "default": "USA U20"
+            }
+        },
+        {
+            "assists": 17,
+            "gameTypeId": 2,
+            "gamesPlayed": 40,
+            "goals": 14,
+            "leagueAbbrev": "AHL",
+            "pim": 24,
+            "plusMinus": 4,
+            "points": 31,
+            "season": 20202021,
+            "sequence": 26957,
+            "teamName": {
+                "default": "Ontario Reign"
+            }
+        },
+        {
+            "assists": 0,
+            "gameTypeId": 3,
+            "gamesPlayed": 1,
+            "goals": 0,
+            "leagueAbbrev": "AHL",
+            "pim": 0,
+            "plusMinus": -2,
+            "points": 0,
+            "season": 20202021,
+            "sequence": 26957,
+            "teamName": {
+                "default": "Ontario Reign"
+            }
+        },
+        {
+            "assists": 13,
+            "avgToi": "12:39",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 2,
+            "gamesPlayed": 80,
+            "goals": 14,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 37,
+            "plusMinus": -3,
+            "points": 27,
+            "powerPlayGoals": 6,
+            "powerPlayPoints": 9,
+            "season": 20212022,
+            "sequence": 1,
+            "shootingPctg": 0.072,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 194,
+            "teamCommonName": {
+                "default": "Kings"
+            },
+            "teamName": {
+                "default": "Los Angeles Kings",
+                "fr": "Kings de Los Angeles"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Los Angeles",
+                "fr": "de Los Angeles"
+            }
+        },
+        {
+            "assists": 0,
+            "avgToi": "11:54",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 7,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": -3,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20212022,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 15,
+            "teamCommonName": {
+                "default": "Kings"
+            },
+            "teamName": {
+                "default": "Los Angeles Kings",
+                "fr": "Kings de Los Angeles"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Los Angeles",
+                "fr": "de Los Angeles"
+            }
+        },
+        {
+            "assists": 15,
+            "avgToi": "11:41",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 1,
+            "gamesPlayed": 56,
+            "goals": 13,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 12,
+            "plusMinus": -5,
+            "points": 28,
+            "powerPlayGoals": 8,
+            "powerPlayPoints": 12,
+            "season": 20222023,
+            "sequence": 1,
+            "shootingPctg": 0.106557,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 122,
+            "teamCommonName": {
+                "default": "Kings"
+            },
+            "teamName": {
+                "default": "Los Angeles Kings",
+                "fr": "Kings de Los Angeles"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Los Angeles",
+                "fr": "de Los Angeles"
+            }
+        },
+        {
+            "assists": 0,
+            "avgToi": "12:11",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 3,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 2,
+            "goals": 0,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 0,
+            "plusMinus": -1,
+            "points": 0,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20222023,
+            "sequence": 1,
+            "shootingPctg": 0.0,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 1,
+            "teamCommonName": {
+                "default": "Kings"
+            },
+            "teamName": {
+                "default": "Los Angeles Kings",
+                "fr": "Kings de Los Angeles"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Los Angeles",
+                "fr": "de Los Angeles"
+            }
+        },
+        {
+            "assists": 8,
+            "avgToi": "11:48",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 51,
+            "goals": 7,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 14,
+            "plusMinus": -3,
+            "points": 15,
+            "powerPlayGoals": 3,
+            "powerPlayPoints": 4,
+            "season": 20232024,
+            "sequence": 1,
+            "shootingPctg": 0.069307,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 101,
+            "teamCommonName": {
+                "default": "Kings"
+            },
+            "teamName": {
+                "default": "Los Angeles Kings",
+                "fr": "Kings de Los Angeles"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "Los Angeles",
+                "fr": "de Los Angeles"
+            }
+        },
+        {
+            "assists": 1,
+            "avgToi": "11:13",
+            "faceoffWinningPctg": 0.0,
+            "gameTypeId": 2,
+            "gameWinningGoals": 0,
+            "gamesPlayed": 14,
+            "goals": 3,
+            "leagueAbbrev": "NHL",
+            "otGoals": 0,
+            "pim": 2,
+            "plusMinus": 2,
+            "points": 4,
+            "powerPlayGoals": 0,
+            "powerPlayPoints": 0,
+            "season": 20242025,
+            "sequence": 1,
+            "shootingPctg": 0.142857,
+            "shorthandedGoals": 0,
+            "shorthandedPoints": 0,
+            "shots": 21,
+            "teamCommonName": {
+                "default": "Rangers"
+            },
+            "teamName": {
+                "default": "New York Rangers",
+                "fr": "Rangers de New York"
+            },
+            "teamPlaceNameWithPreposition": {
+                "default": "New York",
+                "fr": "de New York"
+            }
+        },
+        {
+            "assists": 1,
+            "gameTypeId": 2,
+            "gamesPlayed": 5,
+            "goals": 1,
+            "leagueAbbrev": "AHL",
+            "pim": 8,
+            "plusMinus": -2,
+            "points": 2,
+            "season": 20242025,
+            "sequence": 26957,
+            "teamName": {
+                "default": "Ontario Reign"
+            }
+        }
+    ],
+    "currentTeamRoster": [
+        {
+            "playerId": 8477979,
+            "lastName": {
+                "default": "Aube-Kubel"
+            },
+            "firstName": {
+                "default": "Nicolas"
+            },
+            "playerSlug": "nicolas-aube-kubel-8477979"
+        },
+        {
+            "playerId": 8482132,
+            "lastName": {
+                "default": "Berard"
+            },
+            "firstName": {
+                "default": "Brett"
+            },
+            "playerSlug": "brett-berard-8482132"
+        },
+        {
+            "playerId": 8478840,
+            "lastName": {
+                "default": "Borgen"
+            },
+            "firstName": {
+                "default": "Will",
+                "cs": "William",
+                "de": "William",
+                "es": "William",
+                "fi": "William",
+                "sk": "William",
+                "sv": "William"
+            },
+            "playerSlug": "will-borgen-8478840"
+        },
+        {
+            "playerId": 8477380,
+            "lastName": {
+                "default": "Brodzinski"
+            },
+            "firstName": {
+                "default": "Jonny"
+            },
+            "playerSlug": "jonny-brodzinski-8477380"
+        },
+        {
+            "playerId": 8475842,
+            "lastName": {
+                "default": "Carrick"
+            },
+            "firstName": {
+                "default": "Sam"
+            },
+            "playerSlug": "sam-carrick-8475842"
+        },
+        {
+            "playerId": 8482157,
+            "lastName": {
+                "default": "Cuylle"
+            },
+            "firstName": {
+                "default": "Will"
+            },
+            "playerSlug": "will-cuylle-8482157"
+        },
+        {
+            "playerId": 8475177,
+            "lastName": {
+                "default": "de Haan"
+            },
+            "firstName": {
+                "default": "Calvin"
+            },
+            "playerSlug": "calvin-de-haan-8475177"
+        },
+        {
+            "playerId": 8481726,
+            "lastName": {
+                "default": "Edstrom",
+                "cs": "Edström",
+                "fi": "Edström",
+                "sk": "Edström",
+                "sv": "Edström"
+            },
+            "firstName": {
+                "default": "Adam"
+            },
+            "playerSlug": "adam-edstrom-8481726"
+        },
+        {
+            "playerId": 8479323,
+            "lastName": {
+                "default": "Fox"
+            },
+            "firstName": {
+                "default": "Adam"
+            },
+            "playerSlug": "adam-fox-8479323"
+        },
+        {
+            "playerId": 8481708,
+            "lastName": {
+                "default": "Jones"
+            },
+            "firstName": {
+                "default": "Zac"
+            },
+            "playerSlug": "zac-jones-8481708"
+        },
+        {
+            "playerId": 8481560,
+            "lastName": {
+                "default": "Kaliyev"
+            },
+            "firstName": {
+                "default": "Arthur"
+            },
+            "playerSlug": "arthur-kaliyev-8481560"
+        },
+        {
+            "playerId": 8475184,
+            "lastName": {
+                "default": "Kreider"
+            },
+            "firstName": {
+                "default": "Chris"
+            },
+            "playerSlug": "chris-kreider-8475184"
+        },
+        {
+            "playerId": 8482109,
+            "lastName": {
+                "default": "Lafrenière"
+            },
+            "firstName": {
+                "default": "Alexis"
+            },
+            "playerSlug": "alexis-lafrenière-8482109"
+        },
+        {
+            "playerId": 8476468,
+            "lastName": {
+                "default": "Miller"
+            },
+            "firstName": {
+                "default": "J.T."
+            },
+            "playerSlug": "j-t-miller-8476468"
+        },
+        {
+            "playerId": 8480817,
+            "lastName": {
+                "default": "Miller"
+            },
+            "firstName": {
+                "default": "K'Andre"
+            },
+            "playerSlug": "k-andre-miller-8480817"
+        },
+        {
+            "playerId": 8482747,
+            "lastName": {
+                "default": "Othmann"
+            },
+            "firstName": {
+                "default": "Brennan"
+            },
+            "playerSlug": "brennan-othmann-8482747"
+        },
+        {
+            "playerId": 8478550,
+            "lastName": {
+                "default": "Panarin"
+            },
+            "firstName": {
+                "default": "Artemi",
+                "cs": "Artěmij",
+                "sk": "Artemij"
+            },
+            "playerSlug": "artemi-panarin-8478550"
+        },
+        {
+            "playerId": 8481704,
+            "lastName": {
+                "default": "Parssinen",
+                "cs": "Pärssinen",
+                "fi": "Pärssinen",
+                "sk": "Pärssinen",
+                "sv": "Pärssinen"
+            },
+            "firstName": {
+                "default": "Juuso"
+            },
+            "playerSlug": "juuso-parssinen-8481704"
+        },
+        {
+            "playerId": 8484210,
+            "lastName": {
+                "default": "Perreault"
+            },
+            "firstName": {
+                "default": "Gabe"
+            },
+            "playerSlug": "gabe-perreault-8484210"
+        },
+        {
+            "playerId": 8471734,
+            "lastName": {
+                "default": "Quick"
+            },
+            "firstName": {
+                "default": "Jonathan"
+            },
+            "playerSlug": "jonathan-quick-8471734"
+        },
+        {
+            "playerId": 8482460,
+            "lastName": {
+                "default": "Rempe"
+            },
+            "firstName": {
+                "default": "Matt"
+            },
+            "playerSlug": "matt-rempe-8482460"
+        },
+        {
+            "playerId": 8482073,
+            "lastName": {
+                "default": "Schneider"
+            },
+            "firstName": {
+                "default": "Braden"
+            },
+            "playerSlug": "braden-schneider-8482073"
+        },
+        {
+            "playerId": 8478048,
+            "lastName": {
+                "default": "Shesterkin",
+                "cs": "Šesťorkin",
+                "fi": "Shestjorkin",
+                "sk": "Šesťorkin"
+            },
+            "firstName": {
+                "default": "Igor"
+            },
+            "playerSlug": "igor-shesterkin-8478048"
+        },
+        {
+            "playerId": 8477369,
+            "lastName": {
+                "default": "Soucy"
+            },
+            "firstName": {
+                "default": "Carson"
+            },
+            "playerSlug": "carson-soucy-8477369"
+        },
+        {
+            "playerId": 8476389,
+            "lastName": {
+                "default": "Trocheck"
+            },
+            "firstName": {
+                "default": "Vincent"
+            },
+            "playerSlug": "vincent-trocheck-8476389"
+        },
+        {
+            "playerId": 8480001,
+            "lastName": {
+                "default": "Vaakanainen"
+            },
+            "firstName": {
+                "default": "Urho"
+            },
+            "playerSlug": "urho-vaakanainen-8480001"
+        },
+        {
+            "playerId": 8476459,
+            "lastName": {
+                "default": "Zibanejad"
+            },
+            "firstName": {
+                "default": "Mika"
+            },
+            "playerSlug": "mika-zibanejad-8476459"
+        }
+    ]
+}
